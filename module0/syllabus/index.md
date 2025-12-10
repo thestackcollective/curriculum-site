@@ -26,8 +26,8 @@ While computer literacy skills have never been an entry requirement for students
 
 ## Expectations
 
-### Attendance
-Students are expected to attend all scheduled live sessions, on time. Staff will work on a case-by-case basis with students who communicate any prior commitments or have emergencies arise. If a student must miss a live session, it is the student's responsibility to proactively let staff know, and make a plan for how they will make up for any content missed.
+<!-- ### Attendance
+Students are expected to attend all scheduled live sessions, on time. Staff will work on a case-by-case basis with students who communicate any prior commitments or have emergencies arise. If a student must miss a live session, it is the student's responsibility to proactively let staff know, and make a plan for how they will make up for any content missed. -->
 
 ### Schedule
 The specific schedule for your course and Mod 0 format can be found on the [Calendar]({{ site.baseurl }}/moudle0) page. A general overview of each format is listed below.
@@ -56,7 +56,7 @@ This may be your first time learning and/or working in a remote setting. There a
 - **Laptop Stand:** These can be useful when using a separate keyboard and for preventing strain on your neck. This also creates more real estate for your workspace.
 - **External Keyboard:** You may benefit from using a different keyboard than the integrated one in your laptop, especially if you are using a laptop stand. If you plan to use a wired keyboard, you'll likely need the USB-C hub mentioned above to connect to your keyboard in addition to your charger and monitor.
 
-## Accommodations
+<!-- ## Accommodations
 We do our best to work with students who need additional accommodations while attending TheStackCollective. If this applies to you, please review [this form](https://docs.google.com/document/d/1uTa_LFW_Wphc8O7SmJN3EVcfGM7DZrcT0qSa3TuSxV4/) prior to starting Mod 0 at TheStackCollective and communicate with the Mod 0 Lead.
 
 ## Enrollment Questions
@@ -65,7 +65,7 @@ In order to secure a seat as a student at TheStackCollective, one must complete 
 
 ## Tuition Questions
 
-If you are enrolled in Mod 0, that means you've paid your deposit. The remainder of your tuition is due 30 days prior to your Mod 1 start date. TheStackCollective does provides financial counseling, however, it is _the student's_ responsibility to take advantage of that resource if needed, and that should be done well in advance of the tuition deadline as exceptions will not be made. To set up a financial counseling session or ask clarifying questions about your tuition, please email `financialaid@thestackcollective.org`.
+If you are enrolled in Mod 0, that means you've paid your deposit. The remainder of your tuition is due 30 days prior to your Mod 1 start date. TheStackCollective does provides financial counseling, however, it is _the student's_ responsibility to take advantage of that resource if needed, and that should be done well in advance of the tuition deadline as exceptions will not be made. To set up a financial counseling session or ask clarifying questions about your tuition, please email `financialaid@thestackcollective.org`. -->
 
 <br>
 <br>

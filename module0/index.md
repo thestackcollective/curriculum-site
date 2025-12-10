@@ -5,7 +5,7 @@ title: Welcome to Module 0
 
 ## Upcoming Mod 0 Start Dates
 
-<table>
+<!-- <table>
   <tr>
     <th>Mod 1 Cohort (Start Date)</th>
     <th>Mod 0 Dates</th>
@@ -18,7 +18,7 @@ title: Welcome to Module 0
     <td>2505 (May 12)</td>
     <td>April 28 - May 4</td>
   </tr>
-</table>
+</table> -->
 
 Mod 0 is a **required** course for TheStackCollective's Software Engineering programs designed to ensure students are ready to begin engaging with technical content on the first day of Mod 1. The course supports students in the following areas:
 * Becoming familiar with the systems and tools we use at TheStackCollective.
