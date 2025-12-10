@@ -3,7 +3,7 @@ layout: page
 title: Module 4 - Projects
 ---
 
-The following projects will be assigned and their completion is required to graduate from Turing.  
+The following projects will be assigned and their completion is required to graduate from TheStackCollective.  
 ## Technical Projects
 
 - Weeks 1-4 (Group): [Capstone Project](./capstone/)

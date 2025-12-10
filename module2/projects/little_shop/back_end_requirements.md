@@ -225,7 +225,7 @@ The `errors` element will always be an array and contain one or more strings of 
 
 #### DRY Exception Handlers in Code
 
-As part of the project, we're requiring students to try to refactor exception handling and sad path logic in their controllers as much as possible. Take a look at [this page](https://curriculum.turing.edu/module2/lessons/dry_exception_handling) to learn more about some options. 
+As part of the project, we're requiring students to try to refactor exception handling and sad path logic in their controllers as much as possible. Take a look at [this page](https://curriculum.thestackcollective.org/module2/lessons/dry_exception_handling) to learn more about some options. 
 
 #### Sad Path vs Edge Case
 
@@ -681,12 +681,12 @@ These endpoints should:
 
 * return a single object, if found
 * return the first object in the database in case-insensitive alphabetical order if multiple matches are found
-  * e.g., if "Ring World" and "Turing" exist as merchant names, "Ring World" would be returned, even if "Turing" was created first
+  * e.g., if "Ring World" and "TheStackCollective" exist as merchant names, "Ring World" would be returned, even if "TheStackCollective" was created first
 * allow the user to specify a 'name' query parameter:
   * for merchants, the user can send `?name=ring` and it will search the `name` field in the database table
   * for items, the user can send `?name=ring` and it will search the `name` field in the database table
   * the search data in the `name` query parameter should require the database to do a case-insensitive search for text fields
-    * e.g., searching for 'ring' should find 'Turing' and 'Ring World'
+    * e.g., searching for 'ring' should find 'TheStackCollective' and 'Ring World'
 * allow the user to send one or more price-related query parameters, applicable to items only:
   * `min_price=4.99` should look for anything with a price equal to or greater than $4.99
   * `max_price=99.99` should look for anything with a price less than or equal to $99.99
@@ -755,7 +755,7 @@ It should not return a 404 if no matches are found.
       "id": "1",
       "type": "merchant",
       "attributes": {
-        "name": "Turing School"
+        "name": "TheStackCollective School"
       }
     }
   ]
@@ -770,7 +770,7 @@ It should not return a 404 if no matches are found.
 <!-- <section class="dropdown">
 ### BE Deployment (Required)
 
-Groups are required to deploy this API to the Internet, using either Heroku or Render. To avoid difficult deployment troubleshooting, please deploy early and deploy often! To use Heroku, follow [these instructions](https://devcenter.heroku.com/articles/getting-started-with-rails7) and don't forget to provision a database! If you're using Render, check out our guide [here](https://curriculum.turing.edu/module2/lessons/deployment_guide)
+Groups are required to deploy this API to the Internet, using either Heroku or Render. To avoid difficult deployment troubleshooting, please deploy early and deploy often! To use Heroku, follow [these instructions](https://devcenter.heroku.com/articles/getting-started-with-rails7) and don't forget to provision a database! If you're using Render, check out our guide [here](https://curriculum.thestackcollective.org/module2/lessons/deployment_guide)
 </section> -->
 
 <section class="call-to-action">

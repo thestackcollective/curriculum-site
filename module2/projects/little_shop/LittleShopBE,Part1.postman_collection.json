@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "68d3ec3f-5f5a-4d00-b08a-c5d6d9e7a5db",
 		"name": "Little Shop BE, Part 1",
-		"description": "Turing School of Software & Design, Software Engineering Program Module 2\n\n\"Little Shop BE\" is a Rails-based API which mimics an e-commerce platform reporting tool as an API. Users can query and store merchants and items, and retrieve information about an item's merchant, or a list of a merchant's items.",
+		"description": "TheStackCollective School of Software & Design, Software Engineering Program Module 2\n\n\"Little Shop BE\" is a Rails-based API which mimics an e-commerce platform reporting tool as an API. Users can query and store merchants and items, and retrieve information about an item's merchant, or a list of a merchant's items.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "22241276"
 	},

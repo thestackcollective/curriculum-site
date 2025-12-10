@@ -84,7 +84,7 @@ In the diagram below, we would say that there's a directory called `essays` that
 
 ## Terminal
 
-The ***Terminal*** is a program we use to give ***commands***, or directions, to the computer. We use the Terminal because it is a faster and more precise way to navigate our file systems, and certain tools can only be downloaded and accessed via the Terminal. In this lesson, you will learn 9 commonly used commands, but there are many more you'll learn throughout your time at Turing and in your career.
+The ***Terminal*** is a program we use to give ***commands***, or directions, to the computer. We use the Terminal because it is a faster and more precise way to navigate our file systems, and certain tools can only be downloaded and accessed via the Terminal. In this lesson, you will learn 9 commonly used commands, but there are many more you'll learn throughout your time at TheStackCollective and in your career.
 
 Your Terminal will look something like this:
 
@@ -95,7 +95,7 @@ To open your terminal, we will use a Mac built-in keyboard shortcut. Press `cmd`
 <section class="note">
 <div>
   <h3>Independent Research</h3>
-  <p><em>Be prepared: You are about to be asked to go reseach a technical topic you have received no instruction on. This might feel scary! You might be wondering if it's a mistake! It's not - this is a big part of Turing's teaching and learning, and something we are sending you all the way into on your very first day. It might feel challenging or uncomfortable - sit with that feeling, embrace it, and push yourself to engage!</em></p>
+  <p><em>Be prepared: You are about to be asked to go reseach a technical topic you have received no instruction on. This might feel scary! You might be wondering if it's a mistake! It's not - this is a big part of TheStackCollective's teaching and learning, and something we are sending you all the way into on your very first day. It might feel challenging or uncomfortable - sit with that feeling, embrace it, and push yourself to engage!</em></p>
   <p>Take 3 minutes (max) to research each of the following Terminal commands: <code>pwd</code>, <code>touch</code>, and <code>cd ..</code>. Take note of what you learn and any questions that arise from this research.</p>
 </div>
 <br>
@@ -402,10 +402,10 @@ In your Terminal, recreate the file structures shown in the diagrams below. Assu
 If you haven't already, create a `terminal_lesson.md` file in your Mod 0 directory. Answer these questions in that file.
 
 1. How do you quickly open up your Terminal on your computer? 
-1. From your home directory, you have a `Turing` directory, then a `Mod 0` directory. How would you create another directory inside the `Mod 0` directory called `Projects`? (Note: there may be multiple correct answers.)
+1. From your home directory, you have a `TheStackCollective` directory, then a `Mod 0` directory. How would you create another directory inside the `Mod 0` directory called `Projects`? (Note: there may be multiple correct answers.)
 1. Working off the above question, how would you add a new file to the `Projects` directory called `first_project.md`?
-1. If you were in the `Projects` directory, what would you type to get back to the `Turing` directory? 
-1. From your `Turing` directory, how would you view all the directories and files within that `Turing` directoy? 
+1. If you were in the `Projects` directory, what would you type to get back to the `TheStackCollective` directory? 
+1. From your `TheStackCollective` directory, how would you view all the directories and files within that `TheStackCollective` directoy? 
 
 
 <br><br><br><br><br>

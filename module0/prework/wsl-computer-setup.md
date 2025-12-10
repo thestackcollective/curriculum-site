@@ -3,7 +3,7 @@ layout:     page
 title:      Mod 0 - Windows Computer Setup
 ---
 
-These instructions are only to be used as a short-term solution while you are waiting for your official Turing Laptop (which is a Mac).  As soon as you receive your Turing laptop, please complete the setup on our main [Computer Setup Page](./computer-setup)
+These instructions are only to be used as a short-term solution while you are waiting for your official TheStackCollective Laptop (which is a Mac).  As soon as you receive your TheStackCollective laptop, please complete the setup on our main [Computer Setup Page](./computer-setup)
 
 If, at any point during this computer setup, things don't work as described, reach out to your instructors!
 

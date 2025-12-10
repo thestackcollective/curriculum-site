@@ -68,7 +68,7 @@ While we've all used Google a time or two, there are ways to make your search mo
 - Use technical terms
 - Choose reliable sources (MDN or Ruby docs)
 
-If the solution you're looking for isn't in the first two pages of results, it's probably not there. You might try reframing your search terms or use another resource, like your Turing community!
+If the solution you're looking for isn't in the first two pages of results, it's probably not there. You might try reframing your search terms or use another resource, like your TheStackCollective community!
 
 ## Problem Solving in Action
 Find and open your <a href="https://replit.com/@turingschool/m0lessonsrepl#main.rb" target="blank">Mod 0 Lessons Repl </a> from previous lessons.  Comment out all the code from previous lessons.  Then, in that repl, complete the challenges below. Don't get too caught up in finding the solution - focus instead on your PROCESS. Push yourself to slow down and follow the process outlined above. And remember that you can post questions in Slack if you hit blockers!

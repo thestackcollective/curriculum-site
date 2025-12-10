@@ -171,7 +171,7 @@ _Optional:_ Read the <a href="http://tutorials.jumpstartlab.com/projects/ruby_in
 </div>
 
 ## Self-Teach
-Part of what you'll experience at Turing is learning a technical topic on your own. Practicing this skill at Turing will get you prepared for the job where you will do this often.
+Part of what you'll experience at TheStackCollective is learning a technical topic on your own. Practicing this skill at TheStackCollective will get you prepared for the job where you will do this often.
 
 Take time between now and your next session to self-teach the following section.
 

@@ -13,7 +13,7 @@ Crafting atomic user stories that are independent and valuable can be challengin
 
 Let's consider the following MVP for an application that will help students determine their overlapping work hours. The feature list could look like this:
 
-**Turing Timezone Coordinator**
+**TheStackCollective Timezone Coordinator**
 - account creation/simple login (without authentication, just assuming the role of an existing user)
   - account creation involves: name, email, US timezone selection, worktime window (i.e. 8am - 7pm)
 - create a new project and search for existing users to add to a project
@@ -31,7 +31,7 @@ Typically, frontend stories can be split by features and distinct user flows. In
 
 This often requires having a bit more knowledge of your application's user flow, so this is an activity that can be best completed after creating a user flow diagram, and starting on basic wireframes for your application. 
 
-**Turing Timezone Coordinator**
+**TheStackCollective Timezone Coordinator**
 - #1: As a new visitor, when I click "Create Account", I can create my own account with my email, timezone and worktime down. 
 - #2: As a returning visitor, when I click on the "Select User" dropdown, I can select my name from the dropdown of existing users, and then I will be redirected to my user profile, where I see my name, email, and worktime window (this is our version of "logging in")
 - #3: As a logged in user, when I'm on my profile page, I can click "Create Project" and I am taken to a form where I can enter the Project name, and select teammates who have profiles on this application. When I have added a name and selected the checkboxes for all my teammates, and then when I click "Create Project", I'm taken to a Project Details page which shows the project info, and then lists the overlapping work time periods (listed in my timezone) for all the teammates on the team. 
@@ -47,7 +47,7 @@ Below are some strategies for splitting up large stories:
 
 By using these strategies, we could end up with the following list of FE user stories. 
 
-**Turing Timezone Coordinator**
+**TheStackCollective Timezone Coordinator**
 - #1: As a new visitor, when I click "Create Account", I can create my own account with my email, timezone and worktime down. 
 - #2: As a new visitor when I click "Create Account" and try to submit the form with missing data, or a non-unique email, I get a descriptive error telling me to try again. 
 - #3: As a returning visitor, when I click on the "Select User" dropdown, I can select my name from the dropdown of existing users, and then I will be redirected to my user profile, where I see my name, email, and worktime window (this is our version of "logging in")

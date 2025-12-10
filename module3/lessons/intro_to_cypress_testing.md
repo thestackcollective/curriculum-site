@@ -123,7 +123,7 @@ Now that we've identified some user flows, let's get to testing (finally)! First
 * Run your test to ensure no errors so far. Take note of any errors that you get in the `Test Body` of the **Command Log**.
 
 **1b. Adding onto the same flow, as a user, I can select the inputs, fill them out, as confirm that each input's value matches what I typed.**
-* In the same `it` block, get the *email* input field, [type](https://docs.cypress.io/api/commands/type.html){:target='blank'} "leta@turing.io" into that field.  This is the user action we're simulating in Cypress. Now we need to assert against the results of that action.
+* In the same `it` block, get the *email* input field, [type](https://docs.cypress.io/api/commands/type.html){:target='blank'} "leta@thestackcollective.org" into that field.  This is the user action we're simulating in Cypress. Now we need to assert against the results of that action.
 * Assert that the email input field [should](https://docs.cypress.io/api/commands/should.html#Syntax){:target='blank'} have the same value as whatever you typed into it.
 * Get the *password* input field, type "keane20" into that field. 
 * Assert that the email input field [should](https://docs.cypress.io/api/commands/should.html#Syntax){:target='blank'} have the same value as whatever you typed into it.
@@ -149,7 +149,7 @@ describe('Feedback Loop login', () => {
     cy.visit('http://localhost:3000')
       .contains('Feedback Loop')
       .get('form').contains('h2', "Please Sign In")
-      .get("input[name='email']").type("leta@turing.io").should('have.value', 'leta@turing.io')
+      .get("input[name='email']").type("leta@thestackcollective.org").should('have.value', 'leta@thestackcollective.org')
       .get("input[name='password']").type("keane20").should('have.value', 'keane20')
   });
 });
@@ -238,7 +238,7 @@ For now (and throughout Mod 3), we will instead use [stubbing](https://docs.cypr
           name: "Leta Keane"
         }
       })
-      .get('input[type="email"]').type('leta@turing.io')
+      .get('input[type="email"]').type('leta@thestackcollective.org')
       .get('input[type="password"]').type('keane20')
       .get('button').click()
       .url().should('include', '/dashboard')
@@ -274,7 +274,7 @@ For now, all we are asserting is that our URL has updated to the page we expect 
       }
     })
     .get('input[type="email"]')
-    .type('leta@turing.io')
+    .type('leta@thestackcollective.org')
     .get('input[type="password"]')
     .type('YOLO')
     .get('button').click()
@@ -322,7 +322,7 @@ describe('Dashboard view', () => {
         body : {
           id:2,
           image: "https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-512",
-          email: 'leta@turing.io',
+          email: 'leta@thestackcollective.org',
           password: 'keane20'
         }
       })
@@ -330,14 +330,14 @@ describe('Dashboard view', () => {
       cy.intercept(`http://localhost:3001/api/v1/users/2/teammates`, {
       "teammates": [
         {
-          email: "hannah@turing.io",
+          email: "hannah@thestackcollective.org",
           id: 1,
           image: "https://ca.slack-edge.com/T029P2S9M-UPE0QSWEQ-d4bebe6f4d88-512",
           name: "Hannah Hudson",
           delivered: false
         },
         {
-          email: "khalid@turing.io",
+          email: "khalid@thestackcollective.org",
           id: 3,
           image: "https://ca.slack-edge.com/T029P2S9M-UDR1EJKFS-9351230a5443-512",
           name: "Khalid Williams",
@@ -365,14 +365,14 @@ describe('Dashboard view', () => {
       id: 4,
       name: "Scott Ertmer",
       image: "https://ca.slack-edge.com/T029P2S9M-UJ910QEJF-7244f37f7e12-512",
-      email: "scott@turing.io",
+      email: "scott@thestackcollective.org",
       password: "ertmer20",
     });
     cy.intercept("GET", "http://localhost:3001/api/v1/users/11", {
       id: 11,
       name: "Travis Rollins",
       image: "https://ca.slack-edge.com/T029P2S9M-U4R41TZD2-7661f06e8c71-512",
-      email: "travis@turing.io",
+      email: "travis@thestackcollective.org",
       password: "rollins20",
     });
     cy.visit('http://localhost:3000/')
@@ -393,14 +393,14 @@ First, create a fixture file. In your cypress/fixtures directory, create a file 
 {
   "teammates": [
     {
-      "email": "hannah@turing.io",
+      "email": "hannah@thestackcollective.org",
       "id": 1,
       "image": "https://ca.slack-edge.com/T029P2S9M-UPE0QSWEQ-d4bebe6f4d88-512",
       "name": "Hannah Hudson",
       "delivered": false
     },
     {
-      "email": "khalid@turing.io",
+      "email": "khalid@thestackcollective.org",
       "id": 3,
       "image": "https://ca.slack-edge.com/T029P2S9M-UDR1EJKFS-9351230a5443-512",
       "name": "Khalid Williams",
@@ -430,7 +430,7 @@ cy.intercept("GET", "http://localhost:3001/api/v1/users/11", {
     id: 11,
     name: "Travis Rollins",
     image: "https://ca.slack-edge.com/T029P2S9M-U4R41TZD2-7661f06e8c71-512",
-    email: "travis@turing.io",
+    email: "travis@thestackcollective.org",
     password: "rollins20",
   }
 }
@@ -511,14 +511,14 @@ Cypress.Commands.add('login', () => {
   cy.intercept(`${baseURL}/users/2/teammates`, {
       "teammates": [
         {
-          email: "hannah@turing.io",
+          email: "hannah@thestackcollective.org",
           id: 1,
           image: "https://ca.slack-edge.com/T029P2S9M-UPE0QSWEQ-d4bebe6f4d88-512",
           name: "Hannah Hudson",
           delivered: false
         },
         {
-          email: "khalid@turing.io",
+          email: "khalid@thestackcollective.org",
           id: 3,
           image: "https://ca.slack-edge.com/T029P2S9M-UDR1EJKFS-9351230a5443-512",
           name: "Khalid Williams",
@@ -548,7 +548,7 @@ Cypress.Commands.add('login', () => {
     id: 4,
     name: "Scott Ertmer",
     image: "https://ca.slack-edge.com/T029P2S9M-UJ910QEJF-7244f37f7e12-512",
-    email: "scott@turing.io",
+    email: "scott@thestackcollective.org",
     password: "ertmer20",
   });
 
@@ -557,13 +557,13 @@ Cypress.Commands.add('login', () => {
     id: 11,
     name: "Travis Rollins",
     image: "https://ca.slack-edge.com/T029P2S9M-U4R41TZD2-7661f06e8c71-512",
-    email: "travis@turing.io",
+    email: "travis@thestackcollective.org",
     password: "rollins20",
   });
 
   // Fill in our UI to trigger the network requests and send us to /dashboard
   cy.visit('http://localhost:3000/')
-    .get('input[name=email]').type('leta@turing.io')
+    .get('input[name=email]').type('leta@thestackcollective.org')
     .get('input[name=password]').type('keane20')
     .get('button').click()
 })

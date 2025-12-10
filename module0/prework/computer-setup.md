@@ -52,7 +52,7 @@ Chrome includes a set of Developer Tools that will come in handy down the road. 
 
 ### Install Slack
 
-Slack is our main communication tool at Turing. **You will receive an invitation to join the Turing Workspace 2 weeks before your Mod 0 start date**. If you are not familiar with it, it may seem overwhelming at first. There are a lot of tips and tricks you'll pick up along the way.
+Slack is our main communication tool at TheStackCollective. **You will receive an invitation to join the TheStackCollective Workspace 2 weeks before your Mod 0 start date**. If you are not familiar with it, it may seem overwhelming at first. There are a lot of tips and tricks you'll pick up along the way.
 
 **Action Steps:**
 - [Download and install the Slack desktop application](https://slack.com/downloads/mac)
@@ -94,7 +94,7 @@ Follow the steps below (if they are not necessary because you have already done 
 
 ### Install Zoom
 
-Zoom is the primary tool for classroom time, study halls, and community building at Turing.
+Zoom is the primary tool for classroom time, study halls, and community building at TheStackCollective.
 
 **Action Steps:**
 - [Download and install Zoom](https://zoom.us/download/) for _Macs with Apple Silicon chips_
@@ -107,7 +107,7 @@ Zoom is the primary tool for classroom time, study halls, and community building
 
 ### Enable Screen Sharing
 
-Turing is a fully remote and highly collaborative program, which means you will be sharing your screen a lot.
+TheStackCollective is a fully remote and highly collaborative program, which means you will be sharing your screen a lot.
 
 **Action Steps:**
 - Enable screen sharing permissions by taking the following steps:
@@ -378,7 +378,7 @@ To write JavaScript in the command line and use essential "packages" while build
 To verify that all steps are completed and installations are working as expected, complete the steps below. If you do not get the expected output for any of the following steps, go back to that step in the computer setup and carefully follow all of the steps a second time. 
 1. Quit out of all applications and close any extra windows. You can verify that only Terminal and Chrome are running by looking at your dock at the bottom of your screen. Applications that are currently running will have a little black dot under them. Then, open only **this** webpage and a **new Terminal window**.
 1. **Rectangle:** Use `control + option + left arrow` to move this webpage to the left side of your screen and `control + option + I` to move your terminal to the upper right corner. Note: Your window cannot be in full-screen mode for rectangle to work. 
-1. **Chrome:** In your Chrome window, open a new tab. At the very top under the address bar, you should at least one bookmarked page -- the [Mod 0 Site](https://mod0.turing.edu/).
+1. **Chrome:** In your Chrome window, open a new tab. At the very top under the address bar, you should at least one bookmarked page -- the [Mod 0 Site](https://mod0.thestackcollective.org/).
 1. **Slack:** Ensure that Slack is downloaded by opening up the Slack application using Spotlight. Hold down `command + space` to open up Spotlight and start typing `Slack`. Hit `return` and your Slack application should open in a new window. Quit Slack by holding down `command + q`.
 1. **Zoom:** Ensure that Zoom is downloaded by holding down `command + space` to open up Spotlight and start typing `Zoom`. Hit `return` and your Zoom application should open in a new window. Quit Zoom by holding down `command + q`.
 1. **XCode-select:** In your terminal, run `xcode-select -v`. If installed, your terminal will output the current version of xcode-select found in your system. For example, something like: `xcode-select version 2384.`.

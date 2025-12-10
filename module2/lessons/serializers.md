@@ -65,7 +65,7 @@ Let's use the [json:api](https://jsonapi.org/) specification for our JSON resp
 
 ### Adding to our Existing Project
 
-You may have created a repo to code-along with from the [Building an API in Rails](https://curriculum.turing.edu/module2/lessons/building_an_api)
+You may have created a repo to code-along with from the [Building an API in Rails](https://curriculum.thestackcollective.org/module2/lessons/building_an_api)
  lesson. Feel free to use the repository that you created. Otherwise, you can clone [this](https://github.com/turingschool-examples/set-list-api))
  repo, and use the `songs-crud-complete` branch. Below are instructions for getting started with this repo.
 

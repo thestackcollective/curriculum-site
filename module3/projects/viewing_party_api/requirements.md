@@ -470,7 +470,7 @@ Add the following functionality to your API:
 * Require the host's API key for requests to add additional users to an invitation. If a request to invite additional users doesn't include an API key in the body or a as a query parameter, the API should return with a 401.
 * Require the user's valid API key in the request for endpoint #6, so that a user needs to provide their key to get their specific profile data returned. If no key is provided, return a 401.  
 
-Check out [this lesson](https://curriculum.turing.edu/module3/lessons/api_authorization) as a resource for implementing authorization.
+Check out [this lesson](https://curriculum.thestackcollective.org/module3/lessons/api_authorization) as a resource for implementing authorization.
 
 </section>
 

@@ -12,7 +12,7 @@ Check out this video from Jeff - "Your Job Is Not Advertised"
 
 ### Research Your Contacts
 * Start with LinkedIn
-  * [Check out this write-up from Ian on asking for Turing staff introductions to LinkedIn connections](https://gist.github.com/iandouglas/40e5c634b259de8512446bf76d3199e7)
+  * [Check out this write-up from Ian on asking for TheStackCollective staff introductions to LinkedIn connections](https://gist.github.com/iandouglas/40e5c634b259de8512446bf76d3199e7)
 * Then, look for personal sites, blogs, Twitter, etc. to find out additional information
 * Take time to read and understand who you're contacting and analyzing what your ask is
   * HINT: You're not asking for a job
@@ -41,8 +41,8 @@ Check out this video from Jeff - "Your Job Is Not Advertised"
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
-### Try it out at Turing
-* Check out the #lets_grab_donuts channel on Slack to network with other students and Turing community members
+### Try it out at TheStackCollective
+* Check out the #lets_grab_donuts channel on Slack to network with other students and TheStackCollective community members
 
 ### Join Communities
 * [Here's a list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)

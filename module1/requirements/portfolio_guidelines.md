@@ -28,7 +28,7 @@ Your presentation slides will be submitted as a deliverable at the beginning of 
 ### M1 > M2
 
 **Focus: Your Background and Vision**
-- How does your past experience link to your work at Turing and in the eventual career?
+- How does your past experience link to your work at TheStackCollective and in the eventual career?
 - What strengths are you bringing with you to this new industry?
 - Why are you motivated to become a software developer?
 </section>
@@ -48,7 +48,7 @@ Your presentation slides will be submitted as a deliverable at the beginning of 
 ### M3 > M4
 
 **Focus: Growth Trajectory**
-- Why have you been successful up to this point at Turing?
+- Why have you been successful up to this point at TheStackCollective?
 - How are you able to learn new technologies and grow new skills on your own?
 - What do you do when you get stuck on a technical problem? (Be specific about the steps you take to get unstuck!)
 - How does your technical work here link to the ways you want to learn and grow in your job/career?

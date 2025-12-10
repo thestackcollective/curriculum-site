@@ -51,7 +51,7 @@ git clone <ssh key for repository>
 
 Whenever you clone a repository, you interact with that repository by pushing and pulling branches. Therefore, when you are working with teammates, i.e. in a group project, you all need to clone the same repository so that you are all working in the same code base.
 
-Sometimes, you want to work on a code base that you do not own or don't have permission to change. For example, Turing often provides starter repositories for your projects. You do not have permission to change these repositories, so in order to work with them in Github, you need to create a **Fork**. Forking is creating your own copy of a Github repo. This new repo will be associated with your username, so you have permission to change it. After you create a fork, you clone that forked repository the same way you clone a repository that you created from scratch.
+Sometimes, you want to work on a code base that you do not own or don't have permission to change. For example, TheStackCollective often provides starter repositories for your projects. You do not have permission to change these repositories, so in order to work with them in Github, you need to create a **Fork**. Forking is creating your own copy of a Github repo. This new repo will be associated with your username, so you have permission to change it. After you create a fork, you clone that forked repository the same way you clone a repository that you created from scratch.
 
 ## Merge Conflicts
 

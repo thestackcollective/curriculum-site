@@ -93,7 +93,7 @@ Initially Dan was hesitant to apply to roles that didn’t say “engineer” in
 ## Wrap up
 
 <section class="checks-for-understanding">
-#### In your notebook take some time to reflect on your experiences before Turing, the new skillset you’ve acquired, and how those can be applied to Solutions Engineering.
+#### In your notebook take some time to reflect on your experiences before TheStackCollective, the new skillset you’ve acquired, and how those can be applied to Solutions Engineering.
 
 - Describe some similarities and differences between a traditional Software Engineering role and someone under Support Engineering.
 - In what ways does your background fit into the Support Engineering role? What part of your story can be altered or highlighted?

@@ -5,7 +5,7 @@ title: War or Peace - Submission
 
 _[Back to War or Peace Home](./index)_
 
-To submit your project, fill out the form in the Project Due calendar event and make a Pull Request(PR) from YOUR repository back to Turing's starter repository.
+To submit your project, fill out the form in the Project Due calendar event and make a Pull Request(PR) from YOUR repository back to TheStackCollective's starter repository.
 
 To make your PR, make sure your code is pushed up to your repository on Github. All the code for your submission should be on the master branch. Then, follow these steps to submit a Pull Request to the turingschool-examples repository:
 

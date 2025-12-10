@@ -32,7 +32,7 @@ summary:hover {
 <section class="note">
 <p>Follow the docs here on <a href="https://render.com/docs/deploy-rails" target="_blank">Render.com</a>'s existing documentation and resources. You are free to ignore this page and follow directions on Render's website to deploy your application, if you wish. You can skip to the 3rd step - "Update your app for Render".</p>
 
-<p>Turing is not associated or affiliated with Render.com in any way; this page was created as a reference for students to deploy their applications for the first time. 
+<p>TheStackCollective is not associated or affiliated with Render.com in any way; this page was created as a reference for students to deploy their applications for the first time. 
 </p>
 </section>
 
@@ -101,7 +101,7 @@ At any time, you can see your applications on Render from a high-level by going 
 <section class="note">
 <p>These instructions were compiled from <a href="https://fly.io" target="_blank">Fly.io</a>'s existing documentation and resources. You are free to ignore this page and follow directions on Fly.io's website to deploy your application, if you wish. The instructions and links below have been tested as of December 2022.</p>
 
-<p>Turing is not associated or affiliated with Fly.io in any way; this page was created as a reference for students to deploy their applications for the first time. 
+<p>TheStackCollective is not associated or affiliated with Fly.io in any way; this page was created as a reference for students to deploy their applications for the first time. 
 </p>
 </section>
 

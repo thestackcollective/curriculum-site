@@ -24,9 +24,9 @@ Take a look at some alumni Linkedin profiles to see examples of what activity ca
 **Read these articles:**
 
 * [2 Reasons Blogging is the "New" Cover Letter](https://www.linkedin.com/pulse/2-reasons-blogging-new-cover-letter-j-t-o-donnell/)
-* [My First Technical Interview](https://stellabonnie.wordpress.com/2020/08/28/my-first-technical-interview/) - Stella Bonnie (2003 Turing Alum) 
-* [Surgical Neurophysiologist Turned Software Engineer](https://alex-desjardins.medium.com/surgical-neurophysiologist-turned-software-engineering-heres-my-story-6c2248aab4db) - Alex Desjardins (2006 Turing Alum) 
-* [Understanding the Javascript Interpreter](https://javascript.plainenglish.io/the-javascript-interpreter-b17d3397ba04) - Joe Haefling (2003 Turing Alum) 
+* [My First Technical Interview](https://stellabonnie.wordpress.com/2020/08/28/my-first-technical-interview/) - Stella Bonnie (2003 TheStackCollective Alum) 
+* [Surgical Neurophysiologist Turned Software Engineer](https://alex-desjardins.medium.com/surgical-neurophysiologist-turned-software-engineering-heres-my-story-6c2248aab4db) - Alex Desjardins (2006 TheStackCollective Alum) 
+* [Understanding the Javascript Interpreter](https://javascript.plainenglish.io/the-javascript-interpreter-b17d3397ba04) - Joe Haefling (2003 TheStackCollective Alum) 
 </section>
 
 ## Do

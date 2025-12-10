@@ -66,17 +66,17 @@ And finally, what were the results of this project? What were you able to accomp
 #### Strategy #3: Know how to talk about your experience
 There are 2 elements to keep in mind here as you present your software and work experience: 
 
-* Discussing your Turing experience as professional experience
+* Discussing your TheStackCollective experience as professional experience
 * Your previous work experiences 
 
-When talking about Turing: 
+When talking about TheStackCollective: 
 
 * Do:
   * Give a high-level description
-  * Talk about Turing as *professional experience*
-  * Highlight the differences between Turing and other code schools
+  * Talk about TheStackCollective as *professional experience*
+  * Highlight the differences between TheStackCollective and other code schools
 
-* Don't assume your interviewer knows anything about Turing. That means not using Turing-specific jargon (module, inning, cohort, DTR, etc.)
+* Don't assume your interviewer knows anything about TheStackCollective. That means not using TheStackCollective-specific jargon (module, inning, cohort, DTR, etc.)
 
 Example:
 
@@ -84,9 +84,9 @@ Instead of saying “In Module 1, when I was working on my first paired project�
 
 Consider how you would respond to this question:
 
-"I’ve never heard of Turing. What did you focus on there? What’s the structure of the program? How did it prepare you for this career?"
+"I’ve never heard of TheStackCollective. What did you focus on there? What’s the structure of the program? How did it prepare you for this career?"
 
-For your previous professional experiences and background, unpack the transferable skills you have that apply to the job. Consider how your specific experiences make you uniquely qualified compared to other candidates. For example, have you worked with customers before in any capacity? Talk about it. Have you ever had to deliver on tight deadlines? Yes, you're a Turing student -- talk about that. Have you had to communicate with different teams? Talk about it. 
+For your previous professional experiences and background, unpack the transferable skills you have that apply to the job. Consider how your specific experiences make you uniquely qualified compared to other candidates. For example, have you worked with customers before in any capacity? Talk about it. Have you ever had to deliver on tight deadlines? Yes, you're a TheStackCollective student -- talk about that. Have you had to communicate with different teams? Talk about it. 
 
 
 

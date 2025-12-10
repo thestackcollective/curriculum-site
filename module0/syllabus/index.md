@@ -4,13 +4,13 @@ title:      Mod 0 - Syllabus
 ---
 
 ## Description
-Mod 0 is a prerequisite course for attending Turing. The primary focus of the course is setting students up with the necessary tools and programming foundations to be successful in the full-time course. Students will be evaluated throughout the course on their communication, collaboration, and technical skills.
+Mod 0 is a prerequisite course for attending TheStackCollective. The primary focus of the course is setting students up with the necessary tools and programming foundations to be successful in the full-time course. Students will be evaluated throughout the course on their communication, collaboration, and technical skills.
 
 ## Computer Literacy Skill Requirements
-While computer literacy skills have never been an entry requirement for students at Turing, we recognize that some students may need to spend more time developing these skills to feel comfortable in this remote learning environment. Read through the following skills to identify where you might need to spend more time practicing before starting your Turing journey.
+While computer literacy skills have never been an entry requirement for students at TheStackCollective, we recognize that some students may need to spend more time developing these skills to feel comfortable in this remote learning environment. Read through the following skills to identify where you might need to spend more time practicing before starting your TheStackCollective journey.
 
-- **Typing Speed:** It is recommended that students have an average typing speed of at least 50 words per minute before beginning their journey at Turing. You can test your current typing speed [here](https://www.typing.com/student/tests). If you find that you are not currently typing 50 words per minute or faster, this does not mean you cannot be successful at Turing, but it does mean you will need to improve this skill. Typing quickly and accurately without looking at the keyboard will make many things easier throughout your time at Turing. Another great resource for improving your typing speed when typing in a specific programming language is [typing.io](https://typing.io/). It's free to sign up and you can choose your program-specific language to practice.
-- **Keyboard Shortcuts:** The students who are most successful at Turing regularly use [keyboard shortcuts](https://support.apple.com/en-us/HT201236) to complete routine tasks on the computer. Prior to starting your time in Mod 0, you should be comfortable with at least the following commands:
+- **Typing Speed:** It is recommended that students have an average typing speed of at least 50 words per minute before beginning their journey at TheStackCollective. You can test your current typing speed [here](https://www.typing.com/student/tests). If you find that you are not currently typing 50 words per minute or faster, this does not mean you cannot be successful at TheStackCollective, but it does mean you will need to improve this skill. Typing quickly and accurately without looking at the keyboard will make many things easier throughout your time at TheStackCollective. Another great resource for improving your typing speed when typing in a specific programming language is [typing.io](https://typing.io/). It's free to sign up and you can choose your program-specific language to practice.
+- **Keyboard Shortcuts:** The students who are most successful at TheStackCollective regularly use [keyboard shortcuts](https://support.apple.com/en-us/HT201236) to complete routine tasks on the computer. Prior to starting your time in Mod 0, you should be comfortable with at least the following commands:
     - `command + c` - copy
     - `command + v` - paste
     - `command + x` - cut
@@ -35,10 +35,10 @@ The specific schedule for your course and Mod 0 format can be found on the [Cale
 You can expect to work 18-20 hours throughout Mod 0, including the prework. Each Mod 0 course includes 3 total live sessions, held remotely over Zoom.
 
 ### Communication
-All Turing staff members will use Slack as the primary means of communication with students. As an incoming student, any information you need can usually be found in our Turing Slack workspace. As a norm, we expect members of our community to respond to Slack messages within 24 hours.
+All TheStackCollective staff members will use Slack as the primary means of communication with students. As an incoming student, any information you need can usually be found in our TheStackCollective Slack workspace. As a norm, we expect members of our community to respond to Slack messages within 24 hours.
 
 ## Grading
-While we don't have a traditional grading scale at Turing, your successful completion of this course depends on your ability to complete assignments on time, implement feedback on those assignments, and demonstrate your learning in a live evaluation. 
+While we don't have a traditional grading scale at TheStackCollective, your successful completion of this course depends on your ability to complete assignments on time, implement feedback on those assignments, and demonstrate your learning in a live evaluation. 
 
 On [this page](../lessons/), you will see all assignments organized into segments of work. Each segment is expected to be completed after a corresponding live session.
 
@@ -51,21 +51,21 @@ This may be your first time learning and/or working in a remote setting. There a
 - **Notebook + Writing Utensils:** While you will be working on your laptop while you code, work on projects, etc., we recommend using a physical notebook to take notes during class and workshops.
 
 ## Optional Supplies
-- **Headphones with Microphone:** While your Turing-issued laptop has built-in speakers and a microphone, if your workspace has a lot of ambient noise, it might be a good idea to invest in headphones + microphone.
-- **USB-C Hub:** Your Turing-issued laptop only has 2 ports. You'll need one for your charger and one for your external monitor. If you require more ports, a USB-C Hub is a great idea!
+- **Headphones with Microphone:** While your TheStackCollective-issued laptop has built-in speakers and a microphone, if your workspace has a lot of ambient noise, it might be a good idea to invest in headphones + microphone.
+- **USB-C Hub:** Your TheStackCollective-issued laptop only has 2 ports. You'll need one for your charger and one for your external monitor. If you require more ports, a USB-C Hub is a great idea!
 - **Laptop Stand:** These can be useful when using a separate keyboard and for preventing strain on your neck. This also creates more real estate for your workspace.
 - **External Keyboard:** You may benefit from using a different keyboard than the integrated one in your laptop, especially if you are using a laptop stand. If you plan to use a wired keyboard, you'll likely need the USB-C hub mentioned above to connect to your keyboard in addition to your charger and monitor.
 
 ## Accommodations
-We do our best to work with students who need additional accommodations while attending Turing. If this applies to you, please review [this form](https://docs.google.com/document/d/1uTa_LFW_Wphc8O7SmJN3EVcfGM7DZrcT0qSa3TuSxV4/) prior to starting Mod 0 at Turing and communicate with the Mod 0 Lead.
+We do our best to work with students who need additional accommodations while attending TheStackCollective. If this applies to you, please review [this form](https://docs.google.com/document/d/1uTa_LFW_Wphc8O7SmJN3EVcfGM7DZrcT0qSa3TuSxV4/) prior to starting Mod 0 at TheStackCollective and communicate with the Mod 0 Lead.
 
 ## Enrollment Questions
 
-In order to secure a seat as a student at Turing, one must complete all the registration paperwork (including uploading a HS Transcript) and pay their deposit. **If you have any questions regarding your status with those items or your start dates, please first check your Populi account.** If you still have questions or need to make a change to your enrollment status, please email `admissions@turing.edu`.
+In order to secure a seat as a student at TheStackCollective, one must complete all the registration paperwork (including uploading a HS Transcript) and pay their deposit. **If you have any questions regarding your status with those items or your start dates, please first check your Populi account.** If you still have questions or need to make a change to your enrollment status, please email `admissions@thestackcollective.org`.
 
 ## Tuition Questions
 
-If you are enrolled in Mod 0, that means you've paid your deposit. The remainder of your tuition is due 30 days prior to your Mod 1 start date. Turing does provides financial counseling, however, it is _the student's_ responsibility to take advantage of that resource if needed, and that should be done well in advance of the tuition deadline as exceptions will not be made. To set up a financial counseling session or ask clarifying questions about your tuition, please email `financialaid@turing.edu`.
+If you are enrolled in Mod 0, that means you've paid your deposit. The remainder of your tuition is due 30 days prior to your Mod 1 start date. TheStackCollective does provides financial counseling, however, it is _the student's_ responsibility to take advantage of that resource if needed, and that should be done well in advance of the tuition deadline as exceptions will not be made. To set up a financial counseling session or ask clarifying questions about your tuition, please email `financialaid@thestackcollective.org`.
 
 <br>
 <br>

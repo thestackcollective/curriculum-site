@@ -7,7 +7,7 @@ layout: page
 
 In this project, students will create a roadmap for and begin a 10-week-long project. That’s right - 10 weeks! 
 
-Turing grads often struggle post-graduation with establishing solid routines, keeping their technical skills sharp, and upskilling in new technical areas. The goals of this project are meant to directly address these areas:
+TheStackCollective grads often struggle post-graduation with establishing solid routines, keeping their technical skills sharp, and upskilling in new technical areas. The goals of this project are meant to directly address these areas:
 - Students will solidify a plan for the first 8 weeks of post-graduate life.
 - Students will create a project that they are enthusiastic about, giving them a strong story for interviews.
 - Students will continue to solidify programming concepts and add more skills to their resume.

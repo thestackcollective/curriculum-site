@@ -22,8 +22,8 @@ Tech companies often have different names for similar roles for a variety of fac
 <section class="checks-for-understanding">
 ### Questions to Consider
 
-- What motivated you to enroll in Turing? Were you looking for a better work-life balance, remote work opportunities, or continuous learning?
-- Reflecting on your time at Turing, what aspects did you enjoy the most? What were some of the biggest challenges you faced?
+- What motivated you to enroll in TheStackCollective? Were you looking for a better work-life balance, remote work opportunities, or continuous learning?
+- Reflecting on your time at TheStackCollective, what aspects did you enjoy the most? What were some of the biggest challenges you faced?
 - How can your previous work experience translate into a career in tech? What skills or knowledge might be transferable?
 - Think about how you can adapt your career story and highlight relevant skills to align with roles that interest you in tech, even if they aren’t traditional software engineering positions.
 </section>

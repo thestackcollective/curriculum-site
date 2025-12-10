@@ -21,7 +21,7 @@ Google and the [MDN docs](https://developer.mozilla.org/en-US/) will be your fri
 
 Be sure to clone this repo into a directory where it will be easily accessible.  You will use this repo for all of your JS Party exercises as well as the exercises you'll do in front end lessons in Mod 2.  
 
-*Important:*  VS Code offers packages and tools that can help you write your code. You should **NOT** be using any tools that will autocomplete or suggest autocompletion for your code as you work through these examples (and other Turing code).  Having this type of tool enabled will provide you with the code solutions you're supposed to be **figuring out** on your own.  This quickly renders your practice, and your tuition, to be a big ol' waste. 
+*Important:*  VS Code offers packages and tools that can help you write your code. You should **NOT** be using any tools that will autocomplete or suggest autocompletion for your code as you work through these examples (and other TheStackCollective code).  Having this type of tool enabled will provide you with the code solutions you're supposed to be **figuring out** on your own.  This quickly renders your practice, and your tuition, to be a big ol' waste. 
 
 <br>
 
@@ -325,6 +325,6 @@ You can see that as developers, we will likely want to do similar data manipulat
 
 Use VS Code to practie more functions in the [More Functions Playground file](https://github.com/turingschool-examples/mod2-sandbox/blob/main/js_party/more_functions_playground.js).
 
-If you're looking for additional practice and elaboration on these JavaScript topics, you can check out our [legacy Front End curriculum lessons](https://frontend.turing.edu/lessons/) to learn more.
+If you're looking for additional practice and elaboration on these JavaScript topics, you can check out our [legacy Front End curriculum lessons](https://frontend.thestackcollective.org/lessons/) to learn more.
 
-This [Extra Practice](https://frontend.turing.edu/lessons/module-1/extra-practice.html) resource from our legacy FE Curriculum may also be helpful.
+This [Extra Practice](https://frontend.thestackcollective.org/lessons/module-1/extra-practice.html) resource from our legacy FE Curriculum may also be helpful.

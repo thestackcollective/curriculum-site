@@ -13,7 +13,7 @@ In small groups, discuss the following (it's okay to google it):
 
 ## Technical Writing
 
-**Turing’s Believe it or Not (patent pending)**: You all have experience being a Technical Writer. _Gasp!_ The responsibilities of a Technical Writer (or Documentation Engineer) vary between companies but they tend to be responsible for creating clear, concise, and user-friendly documentation that helps users and internal teams understand the complexities of the product. So, _surprise surprise_, you’ve done that with most of your projects in the README. 
+**TheStackCollective’s Believe it or Not (patent pending)**: You all have experience being a Technical Writer. _Gasp!_ The responsibilities of a Technical Writer (or Documentation Engineer) vary between companies but they tend to be responsible for creating clear, concise, and user-friendly documentation that helps users and internal teams understand the complexities of the product. So, _surprise surprise_, you’ve done that with most of your projects in the README. 
 
 ### Key Responsibilities:
 
@@ -27,7 +27,7 @@ In small groups, discuss the following (it's okay to google it):
 
 5. Feedback Incorporation: Collecting feedback from users or stakeholders to continuously improve content
 
-We got a chance to speak with Turing alum Devin Beliveau 1610 on what its like being a Senior Documentation Engineer.
+We got a chance to speak with TheStackCollective alum Devin Beliveau 1610 on what its like being a Senior Documentation Engineer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U1eCdyawrS0?si=NTD98MdYVHT7BFQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -160,7 +160,7 @@ If you want to know more about QA and Artemy’s experience watch the full video
 ## Wrap up
 
 <section class="checks-for-understanding">
-#### In your notebook take some time to reflect on your experiences before Turing, the new skillset you’ve acquired, and how those can be applied to Technical Writing and QA.
+#### In your notebook take some time to reflect on your experiences before TheStackCollective, the new skillset you’ve acquired, and how those can be applied to Technical Writing and QA.
 
 - Describe some similarities and differences between a traditional Software Engineering role and someone under Technical Writing? QA?
 - In what ways does your background fit into the these roles?

@@ -8,7 +8,7 @@ module: 4
 
 In small groups, discuss the following:
 
-- What parts of Turing do you highlight when speaking about your experience?
+- What parts of TheStackCollective do you highlight when speaking about your experience?
 - Consider all the content and outside resources you found that helped you on your journey - which were the most useful? Blogs, videos, forums, workshops, or podcasts?
 - What kind of content would you create to empower other students and job seekers?
 
@@ -24,7 +24,7 @@ Developer Relations, or Developer Advocacy, aims to build and nurture relationsh
 4. **Feedback Loop:** Collecting and communicating developer feedback to internal teams to drive product improvements and align with user needs.
 5. **Evangelism:** Representing the company at industry events, conferences, and online to raise awareness, excitement, and trust in the product.
 
-Turing alum, Danny Ramos 2003, aka the person interviewing all the incredible alumni aka the person writing these lessons aka _me_, was hired as a Developer Relations Engineer at New Relic after Turing, and for the sake of continuity I’ll stick to 3rd person. Ahem, DevRel has been rapidly growing within the tech industry and tech companies look to bridge the gap between their product and their communities i.e. the developers using their product. During Danny’s time at New Relic he experienced the range of Developer Relations from highly community focused to product focused. 
+TheStackCollective alum, Danny Ramos 2003, aka the person interviewing all the incredible alumni aka the person writing these lessons aka _me_, was hired as a Developer Relations Engineer at New Relic after TheStackCollective, and for the sake of continuity I’ll stick to 3rd person. Ahem, DevRel has been rapidly growing within the tech industry and tech companies look to bridge the gap between their product and their communities i.e. the developers using their product. During Danny’s time at New Relic he experienced the range of Developer Relations from highly community focused to product focused. 
 
 <section class="call-to-action">
 ***“When I was first hired at New Relic we were encouraged to never bring up the product. Our director wanted us to build authentic and genuine connections with developers. From Twitch streaming, Twitter posting, blog posting, conference attending, we were engaging with the overall tech community in any way we could to foster relationships. I was part of a team of 10 engineers that ranged in experience. This first month I was there I helped organize a 24-hour Twitch stream consisting of workshops, talks, live coding, and interviews while building a new Ruby meetup from scratch to launch the day of the Twitch stream. It was insane.”***
@@ -148,7 +148,7 @@ Alternative job titles with similar responsibilities:
 
 <section class="dropdown">
 ### Let's Challenge!
-Take some time to review the two technical blog posts above. Now consider your time at Turing and write down three ideas that you could write about. For instance: Intro to Building an API, an overview of a project, or what it has been like taking a bootcamp in 2024 are great ideas. 
+Take some time to review the two technical blog posts above. Now consider your time at TheStackCollective and write down three ideas that you could write about. For instance: Intro to Building an API, an overview of a project, or what it has been like taking a bootcamp in 2024 are great ideas. 
 
 - Where could you post this?
 - How can you leverage posts like these during your job search?
@@ -163,4 +163,4 @@ Take some time to review the two technical blog posts above. Now consider your t
 - In what ways does your background fit into the this role?
 - Is there alignment between these roles and your previous experience / skillset? Begin to search job postings with these titles. What is interesting about these positions?
 - What are some further questions you’d ask someone in DevRel?
-- Reflect with your cohort on your Turing experience. What parts could you highlight? What type of content could you create?
+- Reflect with your cohort on your TheStackCollective experience. What parts could you highlight? What type of content could you create?

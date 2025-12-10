@@ -4,24 +4,24 @@ title: Terminal Portfolio Directions
 ---
 
 ## Overview
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu/profiles). These portfolios can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.
+TheStackCollective provides a space for professional portfolios on [our website](https://terminal.thestackcollective.org/profiles). These portfolios can be used during your job hunt - you can send out links to your profile, and TheStackCollective staff may share your profile to employers who come to us asking for candidates.
 
 ### How to Set It Up
 You will receive an email invitation from the Career Dev team inviting you to create a Terminal profile. If you have not received this invite, you can request an invite by reaching out to Megan McMahon - @megan on slack. 
 
 To set up your profile: 
-* Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
+* Log into Terminal at [https://terminal.thestackcollective.org/developers/sign_in](https://terminal.thestackcollective.org/developers/sign_in)
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
 * A Career Specialist will review your profile and approve for publishing or request additional changes
 * For more info on how to set this up, [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
 ### When your profile is complete:
-* Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
+* Make sure you've met the [requirements for publication](https://careerdev.thestackcollective.org/resources/terminal_directions).
 * Click “Request Review”  
 * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
 
-Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu/profiles](https://terminal.turing.edu/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
+Once published, your profile will be visible on the main alumni directory at [terminal.thestackcollective.org/profiles](https://terminal.thestackcollective.org/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
 ### About Me Section
 What do you want your profile to say about you? Write out a rough draft of your professional story considering using this framework:
@@ -67,12 +67,12 @@ What needs to be included in order for your portfolio to be published? Here is w
 - [ ] **Professional-looking photo** 
    - [ ] This should be a photo of just you (no kids or animals, sorry!)
    - [ ] Use the same photo as your LinkedIn and GitHub profiles if possible
-   - [ ] Don't have a professional-looking photo? [Check out this post](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home  
+   - [ ] Don't have a professional-looking photo? [Check out this post](https://writing.thestackcollective.org/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home  
 - [ ] **About Me Description**
    - [ ] Tell your professional story
    - [ ] Consider how this is consistent with your LinkedIn and overall brand
    - [ ] If you’re struggling with writing this and need additional support, please contact your mentor and/or members of the career development team
-   - [ ] Check out your peers’ About Me sections to see what you like and don’t like on [Terminal](https://terminal.turing.edu)
+   - [ ] Check out your peers’ About Me sections to see what you like and don’t like on [Terminal](https://terminal.thestackcollective.org)
    - [ ] Make sure to have someone else review this section for clarity, spelling, and grammar  
 - [ ] **Email address**
 - [ ] **GitHub profile**

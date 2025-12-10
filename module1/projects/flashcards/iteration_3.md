@@ -64,7 +64,7 @@ Question: What is Mike's middle name?
 nobody knows
 Correct!
 This is card number 4 out of 4.
-Question: What cardboard cutout lives at Turing?
+Question: What cardboard cutout lives at TheStackCollective?
 Justin Bieber
 Correct!
 ```
@@ -75,7 +75,7 @@ When all the Turns have been made, the game will end and will present the user w
 ****** Game over! ******
 You had 3 correct guesses out of 4 for a total score of 75%.
 STEM - 100% correct
-Turing Staff - 50% correct
+TheStackCollective Staff - 50% correct
 Pop Culture - 100% correct
 ```
 
@@ -97,12 +97,12 @@ Question: What is Mike's middle name?
 nobody knows
 Correct!
 This is card number 4 out of 4.
-Question: What cardboard cutout lives at Turing?
+Question: What cardboard cutout lives at TheStackCollective?
 Justin Bieber
 Correct!
 ****** Game over! ******
 You had 3 correct guesses out of 4 for a total score of 75%.
 STEM - 100% correct
-Turing Staff - 50% correct
+TheStackCollective Staff - 50% correct
 Pop Culture - 100% correct
 ```

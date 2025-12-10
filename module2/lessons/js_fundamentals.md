@@ -210,7 +210,7 @@ Complex: objects and arrays
 Technically also:
 - Symbol (new in ECMAScript 6)
 - BigInt (new in ECMAScript 2020)  
-You won't likely need either of these in your time at Turing so we won't dig into them.
+You won't likely need either of these in your time at TheStackCollective so we won't dig into them.
 </section>
 
 <section class="dropdown">
@@ -304,7 +304,7 @@ var showName = num + word;
 <section class="dropdown">
 ### `var` vs `let` vs `const`?
 
-`var`, `let`, and `const` are all keywords for declaring variables. Modern JavaScript uses ES6's `let` and `const` but the ES5's `var` is alive and well and used in production code to this day. Throughout Turing, you'll see and work with all 3.  
+`var`, `let`, and `const` are all keywords for declaring variables. Modern JavaScript uses ES6's `let` and `const` but the ES5's `var` is alive and well and used in production code to this day. Throughout TheStackCollective, you'll see and work with all 3.  
 
 We're not covering it today but eventually, you'll want [do your research on their differences.](https://codeburst.io/difference-between-var-let-and-const-in-javascript-fbce2fba7b4). They each behave a little differently in terms of scope and reassignment, so it's important to understand the differences. If you don't, you might run into some errors.
 

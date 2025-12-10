@@ -7,7 +7,7 @@ title: Networking, Outreach and Coffee Chats
 
 Networking is another word for building relationships. When you’re networking, you’re actively getting to know someone and they’re getting to know you. As you get to know each other, you’re finding ways to mutually benefit each other, which is something you do in all relationships. For example, mutual benefits in friendships often revolve around support, common interests, and social interaction.
 
-It’s important to recognize what you could gain through networking interactions while at Turing – these might include support and advice as well as reconnecting with those in your existing network. Every relationship has a giving and receiving quality to it, and networking is a little more blatant about it. While you’re receiving support and advice, you can benefit the relationship by spending time really getting to know the other person and their goals so that you can return the favor at a later time.
+It’s important to recognize what you could gain through networking interactions while at TheStackCollective – these might include support and advice as well as reconnecting with those in your existing network. Every relationship has a giving and receiving quality to it, and networking is a little more blatant about it. While you’re receiving support and advice, you can benefit the relationship by spending time really getting to know the other person and their goals so that you can return the favor at a later time.
 
 ## Assessing Your Comfort Level in Networking
 
@@ -27,7 +27,7 @@ Once you are able to identify what energizes you, lean into it! Find ways to cap
 ### Example #1: Networking through social media
 
 If you feel energized by engaging in social networking over Twitter or LinkedIn, here are some tips to maximize the impact of the interactions:
-* Build a robust profile to allow others to get to know you. Note: here are some [resources for personal branding](https://careerdev.turing.edu/resources/branding_resources).
+* Build a robust profile to allow others to get to know you. Note: here are some [resources for personal branding](https://careerdev.thestackcollective.org/resources/branding_resources).
 * Seek out people who share your interests. Interested in artificial intelligence? Block chain? Diversity, equity, and inclusion in tech? Find your people. Check out hashtags, influential people or companies in your field, and other current conversation threads to join in.
 * Don’t leave one-off comments or “likes.” Take time to engage in conversation, listen to others, share helpful resources – just like you would in any conversation.
 
@@ -52,7 +52,7 @@ In short, warm outreach means reaching out to people who are already in your com
 * Alumni
 * Student circles
 * Guest Speakers
-* Employer Partners who participate in activities at Turing
+* Employer Partners who participate in activities at TheStackCollective
 
 Cold outreach refers to reaching out people in the software industry *who you haven't met yet.*
 
@@ -85,22 +85,22 @@ If you appreciate larger groups but haven’t connected with people in the tech 
 * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
 * Check out this list of [Slack tech communities](https://github.com/ladyleet/tech-community-slacks) by region and interest
 
-### Suggested Goal: Meet Someone New at Turing
+### Suggested Goal: Meet Someone New at TheStackCollective
 
-Whether you join a student circle or the #lets_grab_donuts channel on Slack, commit to meeting someone new within the Turing community. The #lets_grab_donuts channel will automatically set you up with a partner, so you don’t need to send a message to connect. For anyone else though, here are some suggested steps for reaching out:
+Whether you join a student circle or the #lets_grab_donuts channel on Slack, commit to meeting someone new within the TheStackCollective community. The #lets_grab_donuts channel will automatically set you up with a partner, so you don’t need to send a message to connect. For anyone else though, here are some suggested steps for reaching out:
 * Send a message to this person. If you don’t know them personally, take the time to introduce yourself and explain very clearly both what you want to talk to them about and why you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? Provide them with a couple of options for times to talk.
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
 * Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network.
 
 Depending on who you meet with, your questions may look different, but regardless, focus on asking questions that help you get to know each other:
-* What brought you to Turing?
-* What do you appreciate about the Turing community?
-* What advice do you have/what has been helpful for you in managing Turing life?
+* What brought you to TheStackCollective?
+* What do you appreciate about the TheStackCollective community?
+* What advice do you have/what has been helpful for you in managing TheStackCollective life?
 * What are you working on that you are excited about?
 * What are y ou excited about contributing to in the tech industry?
 * What do you like to do in your free time outside of programming/work?
 
-### Suggested Goal: Network with a Contact You Already Know Outside of Turing
+### Suggested Goal: Network with a Contact You Already Know Outside of TheStackCollective
 Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Consider reaching out to someone you don’t talk to day-to-day. It would be beneficial to reach out to your [“weak ties”](https://towardsdatascience.com/the-power-of-weak-ties-f1049c93f3a3) or [“dormant ties”](https://foundr.com/articles/leadership/personal-growth/why-dormant-connections-may-be-the-most-powerful-network-you-have) aka people whose knowledge and networks will be relatively new to you! These are people you may have worked with previously, people you know through friends/family/co-workers, or simply people you haven’t connected with in a while. They may or may not have a direct connection to the tech industry, but they may know someone who is in the tech industry or at a company you’re interested in or they may have professional advice that will be helpful for you. Take the following steps to reach out:
 * Send a message to this person and explain why you’d like to connect. Why are they the right person for your questions? Provide them with a couple of options for times to talk.
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
@@ -116,9 +116,9 @@ Depending on who you choose to reach out to, your questions will look different.
 * Is there anyone you would recommend I talk to at your company or in the tech industry at large? Would you be able to make an introduction for me?
 
 ### FAQs
-As you get started with networking at Turing, here are a couple of frequently asked questions and answers that might be helpful:
+As you get started with networking at TheStackCollective, here are a couple of frequently asked questions and answers that might be helpful:
 * _What constitutes networking? Do I have to talk to someone in person/on a call?_ Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place – on a call, through email or Slack messages, DMs on Twitter – is entirely up to you.
-* _How do I go about contacting someone if I don’t have their email?_ There are several [sites listed here](https://careerdev.turing.edu/resources/outreach_networking_resources) that can help you find people’s email addresses.
+* _How do I go about contacting someone if I don’t have their email?_ There are several [sites listed here](https://careerdev.thestackcollective.org/resources/outreach_networking_resources) that can help you find people’s email addresses.
 * _Is this the only networking activity we’ll be doing?_ No, we’ll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
 
 ## Networking Deliverable
@@ -165,7 +165,7 @@ There are many places to look!
 
 1. **Current Connection who Works as a Developer:** Maybe there is a "loose tie" or someone you're not close with, such as a high school acquaintance or past coworker who you could reach out to. Or, if you already talk to a developer regularly, such as if they are a sibling, you could ask them to introduce you to someone they know.
 
-2. **Someone You Share Something in Common With:** LinkedIn is excellent for finding folks you have something in common with. Maybe you both went to Turing or a coding school in general, or you both worked at the same library, or live in the same city, or you can see from LinkedIn you share a connection, or if you attended college you can look for fellow alumni.
+2. **Someone You Share Something in Common With:** LinkedIn is excellent for finding folks you have something in common with. Maybe you both went to TheStackCollective or a coding school in general, or you both worked at the same library, or live in the same city, or you can see from LinkedIn you share a connection, or if you attended college you can look for fellow alumni.
 
 3. **Cold Outreach:** You'd be shocked how often strangers are happy to chat if you demonstrate your genuine interest in speaking with them in particular. You can think about your dream company or industry and find someone who works there on LinkedIn.
 
@@ -199,7 +199,7 @@ It's tough to condense all five points to 300 characters, but something similar 
 ```
 Hi Zoe!
 
-I am currently a student at Turing, halfway through the Launch course. I see you also attended Turing and are working in Ruby on Rails! Would you be up for a 30-minute coffee chat to help me learn what it's like to work as a developer at Orchard? I would so appreciate it!
+I am currently a student at TheStackCollective, halfway through the Launch course. I see you also attended TheStackCollective and are working in Ruby on Rails! Would you be up for a 30-minute coffee chat to help me learn what it's like to work as a developer at Orchard? I would so appreciate it!
 ```
 
 ### Scheduling a Coffee Chat
@@ -229,7 +229,7 @@ With your partner: Brainstorm/Research potential questions you might ask. When w
 <section class="answer" markdown="1">
 ### Example Questions
 
-* At Turing we do a lot of peer code review and it has been incredibly valuable, what does the code review process look like on your team?
+* At TheStackCollective we do a lot of peer code review and it has been incredibly valuable, what does the code review process look like on your team?
 * Technical capabilities aside, what soft skills do you see as important to be a great developer?
 * What's your typical day or week like?
 * What is your favorite part about your job?
@@ -264,7 +264,7 @@ Here's what I like to start with:
 
 Here is one example, but definitely make it your own!
 
-"Thank you so much for taking the time to chat with me! I'm currently 5 months into the Turing Launch program and I'm loving it and I've grown so much as a developer, but from class time alone it's hard to get a picture of what it's really like to work on a development team and I know each team is unique. So I'm eager to learn more about what your day-to-day is like and any advice you have for a budding developer like me. I see on your LinkedIn that you worked at `<enter company here>` then transitioned to `<enter company here>`, could you share more about how you came to work at `<enter company here>` and your journey as a developer so far?"
+"Thank you so much for taking the time to chat with me! I'm currently 5 months into the TheStackCollective Launch program and I'm loving it and I've grown so much as a developer, but from class time alone it's hard to get a picture of what it's really like to work on a development team and I know each team is unique. So I'm eager to learn more about what your day-to-day is like and any advice you have for a budding developer like me. I see on your LinkedIn that you worked at `<enter company here>` then transitioned to `<enter company here>`, could you share more about how you came to work at `<enter company here>` and your journey as a developer so far?"
 
 ### Taking Notes
 

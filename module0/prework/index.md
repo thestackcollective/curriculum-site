@@ -19,7 +19,7 @@ title: Mod 0 - Prework
 Once you have completed all your prework items, please create a new Github Gist that includes the following:
 1. A header that says "Mod 0 Gist - [Your Name]"
 1. A subheader with your pronouns and cohort (ex: she/her 2407)
-1. An "About Me" section with an introduction about who you are and why you decided to come to Turing.
+1. An "About Me" section with an introduction about who you are and why you decided to come to TheStackCollective.
 1. A link to your slack thread post of your loom Intro Video. (You can find this link by hovering over your slack thread post, clicking the three dots, then selecting _Copy Link_)
 1. Be sure to save the file as a markdown file by using a `.md` file type. For example, you might name the file `kaylagordon_mod0gist.md`.
 1. Check that you save this as a secret gist, not a public one.
@@ -37,7 +37,7 @@ Here is a sample of how you might structure your Mod 0 Gist file:
 ## she/her - 2310
 
 ## About Me
-I am a former educator who loves my dog. I'm excited to join Turing because...
+I am a former educator who loves my dog. I'm excited to join TheStackCollective because...
 
 ## Intro Video Link
 [Link](URL to slack thread here...)

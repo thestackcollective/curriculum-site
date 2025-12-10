@@ -1,25 +1,25 @@
-# Turing School of Software and Design
+# TheStackCollective
 ## Software Development Program Curriculum
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-## Site for the Turing Program
+## Site for the TheStackCollective Program
 
 This site is built with Jekyll. Find the docs [here](https://jekyllrb.com/docs/usage/)
 
-The live site can be found at [https://curriculum.turing.edu/](https://curriculum.turing.edu/)
+The live site can be found at [https://curriculum.thestackcollective.org/](https://curriculum.thestackcollective.org/)
 
 This curriculum is used in conjunction with a repo of practice exercises and examples found at [https://github.com/turingschool-examples/se-mod1-exercises](https://github.com/turingschool-examples/se-mod1-exercises)
 
 ### Contributing
 
 * Clone the repo `git clone git@github.com:turingschool/curriculum-site.git`
-* Note: You will need Ruby 3.2.2 installed ([setup instructions if needed](https://mod0.turing.edu/computer-setup#install-rbenv))
+* Note: You will need Ruby 3.2.2 installed ([setup instructions if needed](https://mod0.thestackcollective.org/computer-setup#install-rbenv))
 * Run `bundle install`
 * You can now begin to edit the website.
-* To start the server run `bundle exec jekyll serve --incremental`.
+* To start the server run `pmn`.
 * Navigate to `localhost:4000` to see the site
 * You can push changes to production by pushing the `main` branch to github. `git push origin main`.
 * The changes may take a minute or two to be recognized on production. Please make sure you review your changes on production.
@@ -111,7 +111,7 @@ layout: page
 
 ### Index.md instead of Readme.md
 
-The system we're using to translate from github to curriculum.turing.edu uses index files instead of readme files. Where you would have created a file called `readme.md`, just use `index.md` instead
+The system we're using to translate from github to curriculum.thestackcollective.org uses index files instead of readme files. Where you would have created a file called `readme.md`, just use `index.md` instead
 
 ### Links and Paths
 
@@ -119,11 +119,11 @@ When linking to a markdown file, drop the `.md` in your link. Instead of linking
 
 #### Absolute vs Relative paths
 
-Since you're editing on github, and viewing at curriculum.turing.edu, you'll probably want to use *relative* links instead of *absolute* links. I found a primer on the difference. It's in the context of HTML instead of Markdown, but should basically explain the concept: http://www.boogiejack.com/server_paths.html
+Since you're editing on github, and viewing at curriculum.thestackcollective.org, you'll probably want to use *relative* links instead of *absolute* links. I found a primer on the difference. It's in the context of HTML instead of Markdown, but should basically explain the concept: http://www.boogiejack.com/server_paths.html
 
 ### Your markdown will behave differently
 
-Github uses a slightly different system for translating from Markdown than the engine we use for curriculum.turing.edu. Here's some things that I had to change to get things to look right on the site, even if it looks right on Github.
+Github uses a slightly different system for translating from Markdown than the engine we use for curriculum.thestackcollective.org. Here's some things that I had to change to get things to look right on the site, even if it looks right on Github.
 
 - Put a space after your `#`'s in headers
 - Put a blank line between your headers and any content below

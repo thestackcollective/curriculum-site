@@ -20,9 +20,9 @@ title: Welcome to Module 0
   </tr>
 </table>
 
-Mod 0 is a **required** course for Turing's Software Engineering programs designed to ensure students are ready to begin engaging with technical content on the first day of Mod 1. The course supports students in the following areas:
-* Becoming familiar with the systems and tools we use at Turing.
-* Setting expectations for what engagement, productive struggle, and feedback will be like as a Turing student.
+Mod 0 is a **required** course for TheStackCollective's Software Engineering programs designed to ensure students are ready to begin engaging with technical content on the first day of Mod 1. The course supports students in the following areas:
+* Becoming familiar with the systems and tools we use at TheStackCollective.
+* Setting expectations for what engagement, productive struggle, and feedback will be like as a TheStackCollective student.
 * Developing strategies to thrive in a rigorous, remote learning environment.
 
 It is expected that students arrive at their first Mod 0 Session prepared to engage, which includes having their computer and workspace set up. Students can prepare by following the directions on the Computer Setup page and carefully reading the Syllabus. Promotion to Mod 1 is contingent upon successfully completing the Mod 0 coursework. It is not recommended that students begin working on these tasks prior to receiving their laptop for the program.

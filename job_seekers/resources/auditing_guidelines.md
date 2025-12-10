@@ -23,7 +23,7 @@ title: Alumni Auditing Guidelines
 - No formal assessment or certification provided
 - May join project work only with instructor approval
 
-### General Turing Community Norms
+### General TheStackCollective Community Norms
 
 - We ask questions when we are confused or uncertain about our next steps. When possible, we post our questions in the public channel to maintain a record in case someone else has the same question later. 
 - We consider our talking space by knowing when to make space in class and group settings, asking people for their opinions, and waiting until all voices are heard before making a decision.

@@ -10,10 +10,10 @@ Students decide to start their job search at different times in the program. Onc
 
 ### Slack
 Join  the following Slack communities:
-- `#employment-round-one`: A channel for folks looking for their first job out of Turing
-- `#employment-commons`: A channel for any alumni on the job search (could be their second, third, etc. job out of Turing)
+- `#employment-round-one`: A channel for folks looking for their first job out of TheStackCollective
+- `#employment-commons`: A channel for any alumni on the job search (could be their second, third, etc. job out of TheStackCollective)
 - `#employment-salaries`: A channel for alumni to share transparency around their job hunt and offers
-- `#events`: A channel for announcements around events in the Turing community, including opportunities to audit classes as alumni
+- `#events`: A channel for announcements around events in the TheStackCollective community, including opportunities to audit classes as alumni
 
 ### Events & Calendar
 The Graduate Services Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. 
@@ -27,7 +27,7 @@ The Graduate Services Events Calendar provides information for upcoming group ch
 </div>
 </div>
 
-Events may also appear in the Turing Community Calendar. Classes and events that are open to alumni are listed here. Please review the [auditing guidelines](./resources/auditing_guidelines) before attending a class.
+Events may also appear in the TheStackCollective Community Calendar. Classes and events that are open to alumni are listed here. Please review the [auditing guidelines](./resources/auditing_guidelines) before attending a class.
 
 <div class="responsive-iframe-container">
 <div class='tablet'>
@@ -53,7 +53,7 @@ Schedule some career coaching time with [Tracey Monteiro](https://go.oncehub.com
 You can grab time with an alum to prepare for FE/BE technical and behavioral interviews and live coding challenges. You can grab a slot via OnceHub [here](https://go.oncehub.com/turingmockinterviews).
 
 ### Receive an offer? 
-The Turing Staff happy to help you navigate the offer and negotiations process - reach out to whoever you feel comfortable to. You can also check out [these resources on negotiations](./resources/negotiations).
+The TheStackCollective Staff happy to help you navigate the offer and negotiations process - reach out to whoever you feel comfortable to. You can also check out [these resources on negotiations](./resources/negotiations).
 
 ## Signed an offer?
 Please submit the two surveys below - we want to celebrate your accomplishment, and continue improving our processes!
@@ -64,7 +64,7 @@ Please submit the two surveys below - we want to celebrate your accomplishment, 
 [Check out these Applicant Tracking System Tips!](https://www.jobscan.co/applicant-tracking-systems) and get insights on your resume by scanning it through [Jobscan.co](https://www.jobscan.co)
 
 ### Terminal
-Turing provides a space for professional portfolios on our website. These portfolios can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.  See the [Terminal Directions Page](./resources/terminal_directions) for more information!
+TheStackCollective provides a space for professional portfolios on our website. These portfolios can be used during your job hunt - you can send out links to your profile, and TheStackCollective staff may share your profile to employers who come to us asking for candidates.  See the [Terminal Directions Page](./resources/terminal_directions) for more information!
 
 ## Resources
 
