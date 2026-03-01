@@ -46,7 +46,7 @@ We're going to get into breakout rooms to practice answering interview questions
 **When you are answering the question:**
 
 - Tell your story following the [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result){:target='blank'} method.
-<!-- - Use [these other guidelines](https://careerdev.turing.edu/resources/interview_prep_resources) listed under **Behavioral & Technical Recommendations** 
+<!-- - Use [these other guidelines](https://careerdev.thestackcollective.org/resources/interview_prep_resources) listed under **Behavioral & Technical Recommendations** 
 ^^NOTE: There are no actual guidelines in this resource - just tons of links. -->
 
 **When you are not answering the question, listen closely to the person who is speaking so you can share feedback:**
@@ -74,7 +74,7 @@ We're going to get into breakout rooms to practice answering interview questions
 - Tell me about a time when you had to work closely with someone whose personality was very different from yours.
 - Describe your strengths. How have you seen these in practice as a developer?
 
-You can also find more interview questions in [this technical interview questions bank](https://curriculum.turing.edu/module4/interview_resources/technical_interview_questions) and in [this behavioral interview questions bank](https://curriculum.turing.edu/module4/interview_resources/behavioral_interview_questions).  ChatGPT can be a great resources for drafting additional questions tailored to specific job descriptions and your resume.
+You can also find more interview questions in [this technical interview questions bank](https://curriculum.thestackcollective.org/module4/interview_resources/technical_interview_questions) and in [this behavioral interview questions bank](https://curriculum.thestackcollective.org/module4/interview_resources/behavioral_interview_questions).  ChatGPT can be a great resources for drafting additional questions tailored to specific job descriptions and your resume.
 </section>
 
 ## Wrap Up

@@ -20,7 +20,7 @@ Stop at the provided prompts to take notes and complete practice exercises as in
   <h3>Exercise 1</h3>
   <ol>
     <li>Navigate to your home directory.</li>
-    <li>If you have a Turing and/or Mod 0 directory, navigate to that (highly recommended)!</li>
+    <li>If you have a TheStackCollective and/or Mod 0 directory, navigate to that (highly recommended)!</li>
     <li>Create a new directory called <code>to_do</code>. Inside of that directory, create a file called <code>tasks.md</code>.</li>
     <li>Initialize Git inside of the <code>to_do</code> directory so that we have Git available to track changes.</li>
     <li>Before you check the status, predict what it will say. Then, check the current status.</li>

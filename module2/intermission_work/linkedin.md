@@ -14,6 +14,6 @@ If you've never used LinkedIn before, that's okay! Take a look at this [series o
 Please make sure you complete the following steps before our LinkedIn workshop in week 1. 
 
 1. Sign up for a LinkedIn account
-2. Upload a headshot. Don't have one? No problem! Check out [this blog](https://writing.turing.edu/how-to-take-your-own-linkedin-headshot/) and learn how to take your own!
+2. Upload a headshot. Don't have one? No problem! Check out [this blog](https://writing.thestackcollective.org/how-to-take-your-own-linkedin-headshot/) and learn how to take your own!
 3. Add a headline. At minimum, it can be "Software Engineer" (no need to write student!), but it can also include other components from your previous careers. We'll talk more about this in our workshop. 
 

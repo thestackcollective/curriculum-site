@@ -65,7 +65,7 @@ ON TRACK can look like:
 
 - Data model logic is separate from the DOM logic. Data model is updated first then used to update the DOM. 
 - Arguments/parameters are used to make functions dynamic and reusable where possible (without overengineering)
-- JS is formatted according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
+- JS is formatted according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
 </section>
 
 <section class="dropdown">
@@ -79,8 +79,8 @@ ON TRACK can look like:
 
 ✨WOW✨ can look like:
 - Microanimations have been added to button clicks.
-- CSS is crafted according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
-- HTML is crafted according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+- CSS is crafted according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
+- HTML is crafted according to the [TheStackCollective HTML style guide](https://github.com/turingschool-examples/html)
 </section>
 
 <section class="dropdown">

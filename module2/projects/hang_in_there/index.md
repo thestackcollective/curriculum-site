@@ -22,7 +22,7 @@ Sometimes you need a pick me up. Remember those motivational posters that were a
 ### Helpful Hints
 
 <section class="dropdown">
-### Why are our PRs pushing to the Turing repo?
+### Why are our PRs pushing to the TheStackCollective repo?
 
 Forks are typically used to let someone propose changes to your project, that would eventually be merged back into the original repo you forked from. So a fork will always remain connected to the original repo.
 
@@ -334,7 +334,7 @@ Our product team realizes that some users will love the Unmotivational Posters f
 
 In FE development, the approach we want to follow is updating the data model (like your array) first, then ***using*** the updated data model to update what the user can see on the DOM.  
 
-You'll need to follow the same approach we used in the [DOM Manipulation II lesson](https://curriculum.turing.edu/module2/lessons/js_dom_manipulation_ii) to accomplish this delete functionality.  You'll add your event listener to the entire parent container, then use logic to isolate the specific poster that was clicked on, remove it from the data model, ***then*** use the updated data model to change what is showing on the DOM. 
+You'll need to follow the same approach we used in the [DOM Manipulation II lesson](https://curriculum.thestackcollective.org/module2/lessons/js_dom_manipulation_ii) to accomplish this delete functionality.  You'll add your event listener to the entire parent container, then use logic to isolate the specific poster that was clicked on, remove it from the data model, ***then*** use the updated data model to change what is showing on the DOM. 
 
 Don't: 
 - Don't use HTML `onclick` attributes in any code - all functionality should be through JavaScript.  

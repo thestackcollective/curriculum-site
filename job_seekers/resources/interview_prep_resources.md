@@ -33,7 +33,7 @@ Below you can find lots of resources to help you prepare for both components.
 * [Leet Code](https://leetcode.com/) is a platform both practicing technical interview skills (there are over 1600 questions to practice!) and for helping companies identify top technical talent through sponsored events on the platform.
 
 * Coding challenges resources:
-   * [Turing challenges](https://github.com/turingschool/challenges)
+   * [TheStackCollective challenges](https://github.com/turingschool/challenges)
    * [Code Wars](https://www.codewars.com/)
    * [Exercisms](http://exercism.io/languages/)
    * [HackerRank](https://www.hackerrank.com/dashboard)
@@ -73,7 +73,7 @@ Below you can find lots of resources to help you prepare for both components.
 * Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding?
 * Describe your coding experience and why you wish to continue.
 * What are you looking for in a company? Why would you want to work here?
-* Describe your time at Turing. How did it prepare you for this career?
+* Describe your time at TheStackCollective. How did it prepare you for this career?
 * What is your 100% ideal role for your first web development job?
 * Have you ever worked directly with clients or have been in a customer-facing role in the past? If not, would you like to?
 * Talk about your preferred development environment.

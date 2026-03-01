@@ -10,7 +10,7 @@ title: Asking Technical Questions
 
 ## Effective Googling
 
-Throughout Mod 0 (and your remaining time at Turing), you will encounter thousands of questions with unclear answers. Often, the first place we go when we have questions is Google! This is an excellent source to find answers to your questions, but it helps to follow a few guidelines when looking for answers on the internet. 
+Throughout Mod 0 (and your remaining time at TheStackCollective), you will encounter thousands of questions with unclear answers. Often, the first place we go when we have questions is Google! This is an excellent source to find answers to your questions, but it helps to follow a few guidelines when looking for answers on the internet. 
 
 1. **Take out unnecessary words.** Leave out small common words, such as "how" or "what". Google automatically ignores them anyway! You only want to include the necessary keywords in your search. Instead of <s>"How to update my Slack profile"</s>, use "Update Slack profile".
 1. **Include the programming language in your search.** When you're searching for support with a particular programming language (Markdown, Ruby, JavaScript, etc.), you definitely want to include the language in your search. The same concepts often transcend a single language, so you'll want to be specific about the language you're working with. Instead of <s>"Array methods"</s>, use "JavaScript array methods".
@@ -18,11 +18,11 @@ Throughout Mod 0 (and your remaining time at Turing), you will encounter thousan
 1. **Rephrase your search terms.** If it's not on the first page of results, it's probably not there. It's wise to try a slightly different search term before giving up altogether. For example, if you remember that you've heard both of the terms `if statements` and `conditionals` to describe a similar concept, try using the other one in your search.
 1. **Look for a reliable source.** There are websites that house the documentation for each language, also known as `the docs`. For Ruby, you'll want to bookmark and reference often [the Ruby docs](https://ruby-doc.org/). For JavaScript, [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is your go-to resource and [W3Schools](https://www.w3schools.com/) is usually reliable as well. If you see those sites in your search results, take a look at those first! 
 
-If you followed those guidelines and still can't find what you need on the first 1-2 pages of search results, it's probably time to use another resource... like your Turing community! In the sections that follow, we'll discuss how to ask technical questions and a few best practices to keep in mind as you develop this skill.
+If you followed those guidelines and still can't find what you need on the first 1-2 pages of search results, it's probably time to use another resource... like your TheStackCollective community! In the sections that follow, we'll discuss how to ask technical questions and a few best practices to keep in mind as you develop this skill.
 
 ## Best Practices for Asking Technical Questions
 
-It's easy to ask a question, but _effectively_ asking a question is a skill. It takes a lot longer than you expect to write a good question, but **you are guaranteed to get a better answer when you ask a better question**. This skill will be essential in your success - not just at Turing, but on the job hunt and on the job. During your time at Turing, you will continue to hone this skill.
+It's easy to ask a question, but _effectively_ asking a question is a skill. It takes a lot longer than you expect to write a good question, but **you are guaranteed to get a better answer when you ask a better question**. This skill will be essential in your success - not just at TheStackCollective, but on the job hunt and on the job. During your time at TheStackCollective, you will continue to hone this skill.
 
 Information to include in every question:
 1. What were you trying to do?

@@ -16,13 +16,13 @@ Versions:
  - Rails 7.1.x (run `rails -v`)
  - Node > v16 (run `node -v`, you are likely on the latest Node version by using `nvm`)
 
-If you need help updating Ruby or Rails versions, check out [this page](https://backend.turing.edu/module3/misc/ruby_and_rails_versions). If you need to revisit Node installation, check out [this page](https://mod0.turing.edu/computer-setup#install-node). 
+If you need help updating Ruby or Rails versions, check out [this page](https://backend.thestackcollective.org/module3/misc/ruby_and_rails_versions). If you need to revisit Node installation, check out [this page](https://mod0.thestackcollective.org/computer-setup#install-node). 
 
 ### 1. Getting Deployment-Ready
 
-Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack), using your `@turing.edu` email address.
+Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack), using your `@thestackcollective.org` email address.
    - This step sometimes takes a few days for GitHub to complete, but once you sign up for your credits you'll be able to take advantage of their benefits!
-   - Follow [these instructions](https://mod4.turing.edu/lessons/intermission/gh-student-instructions.html) to get the info you require to complete registration. You'll need to wait (a few days) to be approved. 
+   - Follow [these instructions](https://mod4.thestackcollective.org/lessons/intermission/gh-student-instructions.html) to get the info you require to complete registration. You'll need to wait (a few days) to be approved. 
    - Once you're accepted, you should be able to sign up for Heroku Student. 
   - Ask in #codehelp if you get stuck on any of these steps
 
@@ -67,9 +67,9 @@ Review this lesson on Service-Oriented Architecture [here](../lessons/intro_to_s
 
 Read: [An Overview of Data Structures for Ruby Developers](https://www.rubyguides.com/2019/04/ruby-data-structures/)
 
-We are going to be covering various data structures to prepare you for the job hunt and technical interviews. Complete this former M1 project, [Beat Box](https://backend.turing.edu/module1/projects/beat_box).
+We are going to be covering various data structures to prepare you for the job hunt and technical interviews. Complete this former M1 project, [Beat Box](https://backend.thestackcollective.org/module1/projects/beat_box).
 
-If you've done Beat Box, let's get serious and have a [Date Night](https://backend.turing.edu/module1/projects/date_night)!
+If you've done Beat Box, let's get serious and have a [Date Night](https://backend.thestackcollective.org/module1/projects/date_night)!
 
 #### 4. Security
 

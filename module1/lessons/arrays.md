@@ -34,7 +34,7 @@ As the list of students inevitably changes and grows, this is difficult to maint
 
 An <span class="vocab">Array</span> is a Data Type that allows us to store multiple pieces of data in _one_ variable. They can be compared to lists. The Array is an incredibly powerful and necessary Data Type for building web applications.
 
-Thinking back to the Populi platform that helped you enroll at Turing, many Arrays are used to power its functionality:
+Thinking back to the Populi platform that helped you enroll at TheStackCollective, many Arrays are used to power its functionality:
 
 - **student roster** - list of *all names* in a given cohort
 - **course catalog** - list of *all courses* we offer

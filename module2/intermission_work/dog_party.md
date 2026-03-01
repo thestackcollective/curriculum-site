@@ -44,7 +44,7 @@ To better understand the comp, let’s break it down into sections. Here’s how
 
 ## Phase One: Basic Requirements
 
-Start by building the HTML and using semantic tags to create a clean structure for your page. Follow the [Turing HTML Style Guide](https://github.com/turingschool-examples/html) for best practices.
+Start by building the HTML and using semantic tags to create a clean structure for your page. Follow the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html) for best practices.
 
 ### Step 1: The HTML Skeleton
 

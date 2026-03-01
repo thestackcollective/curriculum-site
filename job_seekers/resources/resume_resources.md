@@ -64,7 +64,7 @@ We strongly recommend using a summary if you do not have a lot of previous work 
 - [ ] No grammatical or spelling errors
 
 ### Experience
-- [ ] Turing can be listed here and under experience but only if you have limited work experience or gaps in employment. Otherwise, use that space to highlight professional experience from prior roles. The technical experience section will provide a good amount of techncial work for the reader. 
+- [ ] TheStackCollective can be listed here and under experience but only if you have limited work experience or gaps in employment. Otherwise, use that space to highlight professional experience from prior roles. The technical experience section will provide a good amount of techncial work for the reader. 
 - [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
 - [ ] Formatted with job title followed by company name
 - [ ] Brief description of role and what value you brought to the company
@@ -72,7 +72,7 @@ We strongly recommend using a summary if you do not have a lot of previous work 
 - [ ] No grammatical or spelling errors
 
 ### Education
-- [ ] Turing is listed here as you can say you received a "Certificate of completion in [Back]/[Front]-End Engineering"
+- [ ] TheStackCollective is listed here as you can say you received a "Certificate of completion in [Back]/[Front]-End Engineering"
 - [ ] Brief description of area of study or skills that can relate to software development or specific job applying to
 - [ ] Add in any leadership or extracurricular activities you participated in (SLC, Student Circles, etc.)
 - [ ] No grammatical or spelling errors

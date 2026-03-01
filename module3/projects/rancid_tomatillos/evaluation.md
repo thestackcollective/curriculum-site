@@ -73,7 +73,7 @@ Note: You will not be graded on how high quality or well-edited your video is, o
 **Exceeds Expectations** can look like:
   - Data retrieved from a server is run through a cleaning function to handle any missing/inconsistent data and remove any extraneous data that isn't using in the application - before setting that data to state.
   - Application shows loading state
-  - Application design is [responsive](https://frontend.turing.edu/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
+  - Application design is [responsive](https://frontend.thestackcollective.org/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
   
 </section>
 

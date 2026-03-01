@@ -57,7 +57,7 @@ Presentations should be 8-10 minutes long and include the following:
 
 2. Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) about the HTTP request-response cycle. 
 
-4. Review [this lesson](https://careerdev.turing.edu/module_four/negotiations) on salary negotiations.
+4. Review [this lesson](https://careerdev.thestackcollective.org/module_four/negotiations) on salary negotiations.
 
 5. Try to complete 2-3 technical challenges in your preferred language. Focus on your approach to breaking down the problem, and be sure to timebox yourself. After the timebox, look at a solution or two to see different approaches! You're welcome to use any platform you'd like, such as [Exercism](https://exercism.io/), [LeetCode](https://leetcode.com), [Codewars](https://www.codewars.com/), [HackerRank](https://www.hackerrank.com/), etc. 
 

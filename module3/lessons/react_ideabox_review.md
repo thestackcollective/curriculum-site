@@ -27,7 +27,7 @@ Follow the instructions for cloning, installing, and running the app. **You do n
 </section>
 
 ## What's an Ideabox, anyway?
-IdeaBox is a Turing term meant to describe a simple application that allows a user to fill out a form and then display that information. If you think about it, there are LOTS of "IdeaBoxes" out there:
+IdeaBox is a TheStackCollective term meant to describe a simple application that allows a user to fill out a form and then display that information. If you think about it, there are LOTS of "IdeaBoxes" out there:
     - Facebook: users fill out a form and their post appears
     - Google: users fill out a form and search results appear
     - Amazon: users search for an item and a list of items appear  

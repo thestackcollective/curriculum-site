@@ -5,11 +5,11 @@ title: Pair Programming
 
 <div>
   <h3>Prepare to Engage</h3>
-  <p>Whether you are starting your day with this activity or wrapping up a long day of technical work with this, take a moment to ground yourself in why you became a student at Turing. This Career Development work is arguably the most valuable component of your education that will lead you into your new career.</p>
+  <p>Whether you are starting your day with this activity or wrapping up a long day of technical work with this, take a moment to ground yourself in why you became a student at TheStackCollective. This Career Development work is arguably the most valuable component of your education that will lead you into your new career.</p>
   <p>Take a moment to reset if needed, meditate, or do some physical stretches/movement to get yourself into the space you need to be in to engage in this work. Some optional guiding questions follow.</p>
   <ul>
-    <li>Why did you come to Turing?</li>
-    <li>What is the thing that will motivate you to keep going on the days/weeks you feel <em>most</em> challenged at Turing?</li>
+    <li>Why did you come to TheStackCollective?</li>
+    <li>What is the thing that will motivate you to keep going on the days/weeks you feel <em>most</em> challenged at TheStackCollective?</li>
   </ul>
 </div>
 <br>
@@ -30,7 +30,7 @@ title: Pair Programming
 
 ## Pair Programming
 
-***Pair Programming*** is a technique in which two software developers work together on a problem. We commonly refer to it as ***Pairing***. The concept of pairing comes from the Agile Methodology, which you'll learn more about during your time at Turing.
+***Pair Programming*** is a technique in which two software developers work together on a problem. We commonly refer to it as ***Pairing***. The concept of pairing comes from the Agile Methodology, which you'll learn more about during your time at TheStackCollective.
 
 ## Driver Navigator
 
@@ -45,7 +45,7 @@ There are many styles of pairing. In Mod 0, we will introduce and focus on the D
 
 ## Tools
 
-While at Turing, you will have two tools available for remote pairing: **Zoom** and **Tuple**. In Mod 0, we will primarily use Zoom. In Mod 1, you will get access to Tuple. While there are many other tools available for use, we prefer students use the same set of tools, so no matter what combination of students we have in a group, everyone knows how to use the tools used. This is similar to what you'll see on the job, but the specific tools of choice will vary from company to company.
+While at TheStackCollective, you will have two tools available for remote pairing: **Zoom** and **Tuple**. In Mod 0, we will primarily use Zoom. In Mod 1, you will get access to Tuple. While there are many other tools available for use, we prefer students use the same set of tools, so no matter what combination of students we have in a group, everyone knows how to use the tools used. This is similar to what you'll see on the job, but the specific tools of choice will vary from company to company.
 
 ## Best Practices
 

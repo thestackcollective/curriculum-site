@@ -8,7 +8,7 @@ It’s time to take a moment and reflect on all of your hard work and progress t
 **Reflection Questions:**
 - As you look back on your time in Mod 0, what are you most proud of?
 - What did you learn about yourself, as a person or a student, during Mod 0?
-- What is one thing you want to remember as you start this new journey to become a software developer at Turing?
+- What is one thing you want to remember as you start this new journey to become a software developer at TheStackCollective?
 - Finally, share some gratitude for the people who were most supportive to you throughout this Mod 0 experience!
 
 

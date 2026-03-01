@@ -5,7 +5,7 @@ layout: page
 
 
 ## Overview
-Your personal portfolio is a place to highlight your work and skills. It can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.
+Your personal portfolio is a place to highlight your work and skills. It can be used during your job hunt - you can send out links to your profile, and TheStackCollective staff may share your profile to employers who come to us asking for candidates.
 
 ## Setup and Submission
 You can either use this provided [template](https://github.com/turingschool/portfolio-template) or create your own portfolio from scratch. You should include all content listed below regardless of which route you choose.
@@ -77,7 +77,7 @@ A good format to follow is:
   <section class="call-to-action">
   Examples:
 
-  * Terminal Crawler provides users a CLI that scrapes Turing’s Terminal site to check alumni profiles for broken project links. This is the first project that I’ve tackled outside of the Turing curriculum, which has given me an opportunity to explore topics not covered in class. At this point I’ve created a simple CLI that scrapes the Terminal site and successfully identifies broken links. I’m currently planning on adding the option to send email notifications from this plain old Ruby project to users who have broken links in their profiles, and potentially implementing background workers to give users the ability to get back to work rather than waiting for those emails to send.
+  * Terminal Crawler provides users a CLI that scrapes TheStackCollective’s Terminal site to check alumni profiles for broken project links. This is the first project that I’ve tackled outside of the TheStackCollective curriculum, which has given me an opportunity to explore topics not covered in class. At this point I’ve created a simple CLI that scrapes the Terminal site and successfully identifies broken links. I’m currently planning on adding the option to send email notifications from this plain old Ruby project to users who have broken links in their profiles, and potentially implementing background workers to give users the ability to get back to work rather than waiting for those emails to send.
   * My Name is Dad is an app that randomly generates dad jokes to new dads in training that I created with a team of two other developers. During this 10 day stretch project we prioritized self-teaching and implementing the state management library, Redux, for a small scale app. My primary responsibilities on this project included managing all CSS styling and animations, directing the team with decision making, and monitoring quality control. I also helped my team members test our project using Cypress and use Redux to update and manage the state of our application.
   </section>
 </section>

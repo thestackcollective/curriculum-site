@@ -29,4 +29,4 @@ title: Module 3 - Professional Development
  
 ### Week 5:
   * Review Roundtable of Career Materials 
-    * Students can expect to receive feedback on their career materials (both resume & cover letter) from Turing staff by the end of week 5. 
+    * Students can expect to receive feedback on their career materials (both resume & cover letter) from TheStackCollective staff by the end of week 5. 

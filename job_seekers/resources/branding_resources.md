@@ -17,7 +17,7 @@ LinkedIn is specifically set up to utilize algorithms and context to help employ
 **First Look:**
 The top of your profile is an opportunity to make a great first impression. When a recruiter or potential employer clicks on your profile, they see 4 initial things:
 
-* **Your picture:** Headshot of just you (not your friends, family, or pets!) and the same photo across your multiple profiles. Don't have a professional-looking headshot? Check out [this post](https://writing.turing.edu/how-to-take-your-own-linkedin-headshot/) with tips on how to take your own!
+* **Your picture:** Headshot of just you (not your friends, family, or pets!) and the same photo across your multiple profiles. Don't have a professional-looking headshot? Check out [this post](https://writing.thestackcollective.org/how-to-take-your-own-linkedin-headshot/) with tips on how to take your own!
 * **Your headline:** What your expertise is
 * **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
 * **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out.
@@ -62,12 +62,12 @@ As you list your past experiences, your accompanying description should not be b
 * Instead of listing tasks, discuss value of your past work.
    * What value did you bring to this company?
 * Link to the name of the company
-   * List Turing under experience but clearly state that you're a student in the description of the experience. 
+   * List TheStackCollective under experience but clearly state that you're a student in the description of the experience. 
    * Avoid using the word "student" in any titles
-   * Describe your experience while at Turing; list technologies and value you’ve created through your project work
+   * Describe your experience while at TheStackCollective; list technologies and value you’ve created through your project work
 
 **Education:**
-Under education, make sure to include Turing again as this ties you to the [Turing alumni page](https://www.linkedin.com/school/turingschool/people/), which allows our Turing network to grow so that future students can seek out where alumni work just like you are
+Under education, make sure to include TheStackCollective again as this ties you to the [TheStackCollective alumni page](https://www.linkedin.com/school/turingschool/people/), which allows our TheStackCollective network to grow so that future students can seek out where alumni work just like you are
 
 **Personalized URL:**
 Edit your URL with your name. Use just your first and last name, no numbers -- you don't want to open yourself up to any age discrimination.
@@ -87,9 +87,9 @@ Below your summary, on your personal dashboard, there is an option to update you
 Your network & their relevance to the job you want DO matter -- start connecting with peers in the industry!
 * Aim for at least 100 connections
 * Quality over quantity
-* When adding Turing staff/alumni, please include an introductory message.                                          
+* When adding TheStackCollective staff/alumni, please include an introductory message.                                          
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
-* As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
+* As you continue to grow in your development at TheStackCollective, share your own updates, whether they be blog posts or links to projects.
 
 **Examples of Effective Alumni LinkedIn Profiles**
 

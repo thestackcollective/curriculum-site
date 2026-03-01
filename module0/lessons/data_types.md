@@ -49,7 +49,7 @@ In this lesson, we will use 4 of Ruby's Data Types. A ***Data Type*** classifies
 - ***Float*** - Any positive or negative number that involves a decimal
 - ***Boolean*** - `true` or `false`
 
-To connect to how these data types are used in an application we all have some experience with, consider the steps you took to enroll at Turing in the Populi application:
+To connect to how these data types are used in an application we all have some experience with, consider the steps you took to enroll at TheStackCollective in the Populi application:
 - **String** - You provided your email address and it was stored as a string, for example: `"helloworld@gmail.com"`
 - **Integer** - You provided your date of birth and the program calculated your age, for example: `37`
 - **Float** - You paid your deposit and that amount was stored as `1200.00`
@@ -162,7 +162,7 @@ The difference between the two is that <code>puts</code> will log each statement
 
 ## Practice
 
-*Note:* If at anytime you have questions, please ask them in your Slack channel. This is the main resource we will use for asking questions at Turing.
+*Note:* If at anytime you have questions, please ask them in your Slack channel. This is the main resource we will use for asking questions at TheStackCollective.
 
 1. Create a new directory called `variable_practice` and `cd` into it.
 1. Inside that directory, create a file called `variables.rb`.

@@ -12,7 +12,7 @@ This page serves as a resource to both instructors and students alike when pract
 - When answering questions about one's personal/professional journey into software development and answering questions, make sure the interviewee is following these [interview preparation tips](./interview_preparation_tips){:target='blank'}:
 1. Answers the whole question including transparency and details on an event and following up on the results that occurred afterwards.
 2. Tells stories following the [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result){:target='blank'} method.
-3. Speaks about experience including Turing and previous work experiences.  *Reminder: Don't assume your interviewer knows anything about Turing including Turing-specific jargon like module, inning, cohort, DTR, etc.*
+3. Speaks about experience including TheStackCollective and previous work experiences.  *Reminder: Don't assume your interviewer knows anything about TheStackCollective including TheStackCollective-specific jargon like module, inning, cohort, DTR, etc.*
 4. Displays a clear understanding of what the company's product and mission is and know what their tech stack is. (This should be done before even submitting an application) You can give yourself a bit of wiggle room with this in case there's a misunderstanding by starting out with *"Based on what I was able to understand from your website..."* as an opportunity to show that you've read up on the company. 
 - When answering questions around workflow or technologies, confirm that the interviewee is specific in their answer.  That relevant terminology is used correctly and specific examples are shared.  High level answers are less likely to be memorable and lack the detail the interviewer is looking for.
 
@@ -41,12 +41,12 @@ Take note of the resume checklist and ensure that all necessary information is l
 </section>
 
 <section class="note">
-### Where does Turing experience belong?
+### Where does TheStackCollective experience belong?
 
-The answer to this question is highly dependent on the interviewee's past experience and is not as black and white as one may think.  Turing may be listed under "Experience" if the interviewee has limited work experience or gaps in employment.  Otherwise, it is preferred to use that space to highlight professional experience from prior roles.  Turing may also be listed under "Education" as well with the note that the individual received a “Certificate of completion in Software Engineering”.  This may include descriptions of areas of study along with leadership or extracurricular activities they participated in such as Student Circles or SLC.  Again, an interviewee may list Turing under *both categories* depending on previous experience.  For clarification or concerns, please reach out to an instructor.
+The answer to this question is highly dependent on the interviewee's past experience and is not as black and white as one may think.  TheStackCollective may be listed under "Experience" if the interviewee has limited work experience or gaps in employment.  Otherwise, it is preferred to use that space to highlight professional experience from prior roles.  TheStackCollective may also be listed under "Education" as well with the note that the individual received a “Certificate of completion in Software Engineering”.  This may include descriptions of areas of study along with leadership or extracurricular activities they participated in such as Student Circles or SLC.  Again, an interviewee may list TheStackCollective under *both categories* depending on previous experience.  For clarification or concerns, please reach out to an instructor.
 </section>
 
 ## Additional Resources
-<!-- - [Interview Prep Resources](https://careerdev.turing.edu/resources/resume_resources){:target='blank'} -->
+<!-- - [Interview Prep Resources](https://careerdev.thestackcollective.org/resources/resume_resources){:target='blank'} -->
 - [Questions to Ask the Interviewer](https://techinterviewhandbook.org/questions-to-ask/){:target='blank'}
 - [Tool to Help You Come Up with Culture Questions](https://www.keyvalues.com/culture-queries){:target='blank'}

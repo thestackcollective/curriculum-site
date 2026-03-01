@@ -9,7 +9,7 @@ Consulting is all about helping companies solve their problems through software.
 ### Consulting Companies
 
 * [BuiltIn's list of EdTech Companies](https://builtin.com/companies/type/consulting-companies)
-* Consulting companies who have hired from Turing:
+* Consulting companies who have hired from TheStackCollective:
    * Slalom
    * AbiEzzi Consulting
    * Barbershop

@@ -1362,7 +1362,7 @@ If you haven't created the Task Manager API yet, follow the [Task Manager API tu
 ## Want to dig deeper? 
 *Fully Optional Extensions - Not at all Expected*
 
-- Look ahead to the [React: Advanced Data Management lesson](https://curriculum.turing.edu/module3/lessons/react_advanced_data_management)
+- Look ahead to the [React: Advanced Data Management lesson](https://curriculum.thestackcollective.org/module3/lessons/react_advanced_data_management)
 - Open a branch.
   - Update the UI to add some additional styling.
     - colors

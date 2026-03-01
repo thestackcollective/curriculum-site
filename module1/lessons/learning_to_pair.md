@@ -22,11 +22,11 @@ Reasons why pairing is beneficial (to you and the team):
 
 
 # DTR
-When forming a new paired team or group, it's important to start off by talking through expectations, limitations, and boundaries _before_ jumping into any code. At Turing, we do this with a DTR (Define the Relationship.)
+When forming a new paired team or group, it's important to start off by talking through expectations, limitations, and boundaries _before_ jumping into any code. At TheStackCollective, we do this with a DTR (Define the Relationship.)
 
 [DTR Template](https://docs.google.com/document/d/18q_7uy5R9Ad6psNUgzJ4bnFG11sBCT5CoYFHVXdCkWc/edit)
 
-Moving forward, all Turing paired and group projects will start with a DTR. 
+Moving forward, all TheStackCollective paired and group projects will start with a DTR. 
 
 *Tips for best utilizing your DTR*
 - Keep DTR in a shared place that's easy to access by all team members.
@@ -79,7 +79,7 @@ This is a great time to give feedback to your partner. Whenever giving feedback,
 # Summary
 - Communication is key throughout the entire process.
 - Working together helps improve both professional and technical skills.
-- Pairing takes practice. Figuring out how to work with others and understanding your own needs for how you work best is a process and may change due to circumstances. Use this time at Turing to practice and refine how you work best as a developer.
+- Pairing takes practice. Figuring out how to work with others and understanding your own needs for how you work best is a process and may change due to circumstances. Use this time at TheStackCollective to practice and refine how you work best as a developer.
 - Remember everyone is here to learn. "If you want to go fast, go alone. If you want to go far, go together."
 - Do not limit your own learning or that of others by working alone.
 - We are all humans and individuals. Pairing will not go smoothly 100% of the time. Remember to ask questions before making assumptions.

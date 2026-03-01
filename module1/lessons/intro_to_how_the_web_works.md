@@ -21,7 +21,7 @@ Rep
 * `Request`: When a client asks a server for information, it sends a request. This request includes details about what information is needed.
 * `Response`: When a server receives a request, it processes it and sends back the requested information in a response.
 * `HTTP` (HyperText Transfer Protocol): A protocol is a set of rules for how data is exchanged over the internet. HTTP is the protocol used for transferring web pages on the internet.
-* `DNS`: A system that translates human-friendly domain names (like turing.edu) into IP addresses that computers use to identify each other on the network.
+* `DNS`: A system that translates human-friendly domain names (like thestackcollective.org) into IP addresses that computers use to identify each other on the network.
 
 ## What is the Internet?
 
@@ -63,8 +63,8 @@ In this analogy:
 
 Metaphor aside, let's run through the protocol as executed by computers:
 
-1. You open your browser, the Client, and type in a web address like `http://turing.edu` and hit enter.
-1. The browser takes this address and builds an **HTTP Request**. It addresses it to the Server located at `http://turing.edu`.
+1. You open your browser, the Client, and type in a web address like `http://thestackcollective.org` and hit enter.
+1. The browser takes this address and builds an **HTTP Request**. It addresses it to the Server located at `http://thestackcollective.org`.
 1. The Request is handed off to your Internet Service Provider (ISP) (like CenturyLink or Comcast) and they send it through the Internet, mostly a series of wires and fiber optic cables, to the Server
 1. The Server reads the Request. It knows how to read it because it is formatted as an **HTTP Request**.
 1. The Server generates an **HTTP Response** to that Request.

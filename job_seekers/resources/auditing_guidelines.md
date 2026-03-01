@@ -5,7 +5,7 @@ title: Alumni Auditing Guidelines
 
 ## Expectations
 
-- Respect current students' learning experience as the priority
+- Respect others' learning experience as the priority
 - Participate appropriately in discussions when invited by instructors
 - Complete any pre-work or readings recommended by instructors
 - Avoid dominating classroom discussions with prior knowledge
@@ -15,7 +15,7 @@ title: Alumni Auditing Guidelines
 - Arrive on time and stay for the full session
 - Ask questions that benefit the learning community
 - Share relevant industry insights when appropriate
-- Support current students' learning journey
+- Support current others' learning journey
 
 ## Resources & Limitations
 
@@ -23,7 +23,7 @@ title: Alumni Auditing Guidelines
 - No formal assessment or certification provided
 - May join project work only with instructor approval
 
-### General Turing Community Norms
+### General TheStackCollective Community Norms
 
 - We ask questions when we are confused or uncertain about our next steps. When possible, we post our questions in the public channel to maintain a record in case someone else has the same question later. 
 - We consider our talking space by knowing when to make space in class and group settings, asking people for their opinions, and waiting until all voices are heard before making a decision.

@@ -15,7 +15,7 @@ After, you're going to be working with a new codebase and testing multiple scena
 
 ## A little background
 
-So far in your time at Turing, you've learned a lot about unit testing. The paradigm you've learned so far is testing individual functions with unit tests to verify that they produce the same output every time, and testing the interactions between those functions (integration tests).
+So far in your time at TheStackCollective, you've learned a lot about unit testing. The paradigm you've learned so far is testing individual functions with unit tests to verify that they produce the same output every time, and testing the interactions between those functions (integration tests).
 
 We haven't tested anything on the DOM yet. So far, our testing has been from the developer's point of view, focused on ensuring that our codebase functions correctly. However, since our apps are built for users, we also need to verify that they work from their perspective!
 
@@ -25,7 +25,7 @@ In this lesson, we're going to learn about **acceptance testing** and **end-to-e
 
 ## What are acceptance tests?
 
-A user story describes the WHAT of a user flow: what is supposed to happen? Acceptance criteria describes the HOW of a user flow: how is that accomplished? [Learn more about user stories here!](https://frontend.turing.edu/lessons/module-3/user-stories)
+A user story describes the WHAT of a user flow: what is supposed to happen? Acceptance criteria describes the HOW of a user flow: how is that accomplished? [Learn more about user stories here!](https://frontend.thestackcollective.org/lessons/module-3/user-stories)
 
 Acceptance testing ensures that the acceptance criteria were successfully implemented. It doesn't just manually call functions; it runs the actual application and walks through a user flow via the app UI. When we run acceptance tests, we use the client, and stub out (we'll learn about this later) our network requests and other services.
 
@@ -42,7 +42,7 @@ This is the final layer that should be added in addition to `unit` and `integrat
 
 ## Frontend Testing vs Backend Testing
 
-As you've progressed through Turing, you've gained experience with backend testing, primarily focusing on unit and integration tests for server-side code. Frontend testing, while sharing some similarities, has its own unique characteristics and challenges. Let's explore the key differences:
+As you've progressed through TheStackCollective, you've gained experience with backend testing, primarily focusing on unit and integration tests for server-side code. Frontend testing, while sharing some similarities, has its own unique characteristics and challenges. Let's explore the key differences:
 <section class="dropdown">
 ### The Answer  
 

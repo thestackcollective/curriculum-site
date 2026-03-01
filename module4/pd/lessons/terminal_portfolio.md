@@ -3,7 +3,7 @@ layout: page
 title: PD Overview 
 ---
 
-## Turing Alumni Portfolio 
+## TheStackCollective Alumni Portfolio 
 What it is:
 * Terminal is our joint job board and graduate portfolio site
 * How we showcase our job-seeking graduates and soon-to-be graduates
@@ -16,10 +16,10 @@ What it is:
 2. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKXVnpYdlwE4FpsAcG2tKfxTu4K4m7cpsgldbpIC03ZLCL6A/viewform) to submit your draft.
 
 ###  How to set up your profile:
-[Log into Terminal at](https://terminal.turing.edu/developers/sign_in)
+[Log into Terminal at](https://terminal.thestackcollective.org/developers/sign_in)
 
 * Go to Edit Profile from the account menu
-* Fill out the profile until all sections are complete. Here is a [checklist](https://careerdev.turing.edu/resources/terminal_directions)of what needs to be completed before we publish a terminal account.
+* Fill out the profile until all sections are complete. Here is a [checklist](https://careerdev.thestackcollective.org/resources/terminal_directions)of what needs to be completed before we publish a terminal account.
 * Only click "Request Review" when your portfolio is fully set up with projects. Until then, staff members can see your updates.
 * Staff members will review your profile and approve it for publishing or request additional changes.
 * For more info on how to set this up, [Watch this Terminal profiles walkthrough with Tanner!](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
@@ -30,7 +30,7 @@ Title
 * Professional-looking photo
   *  This should be a photo of just you (no kids or animals, sorry!)
   * Use the same photo as your LinkedIn and GitHub profiles if possible
-  * Dont have a professional-looking photo? [Check out this post](https://writing.turing.edu/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home
+  * Dont have a professional-looking photo? [Check out this post](https://writing.thestackcollective.org/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home
 
 About Me Description
 

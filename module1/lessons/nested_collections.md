@@ -108,7 +108,7 @@ pizza_toppings = {veggies: ["green peppers", "jalapeño", "mushrooms"],
 
 What about on the job? How often will you need to work with nested collections _really_? 
 
-Take a look at this [ifixit.com documentation](https://www.ifixit.com/api/2.0/doc/Stories#get-a-list-of-stories) (these docs are for working with an external API, which you'll learn about in a future module at Turing). We're specifically interested in the 'Response' section from the `GET /stories` dropdown.
+Take a look at this [ifixit.com documentation](https://www.ifixit.com/api/2.0/doc/Stories#get-a-list-of-stories) (these docs are for working with an external API, which you'll learn about in a future module at TheStackCollective). We're specifically interested in the 'Response' section from the `GET /stories` dropdown.
 
 
 <section class="call-to-action">

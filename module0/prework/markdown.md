@@ -16,7 +16,7 @@ title: Markdown
 
 ## Reminder
 
-If at any time throughout this lesson you feel lost, are unsure of something, or have questions, please add those to your Mod 0 slack channel! We will continue to utilize slack as your main communication hub during your time at Turing so interacting with this tool early and often will help you become comfortable using it.
+If at any time throughout this lesson you feel lost, are unsure of something, or have questions, please add those to your Mod 0 slack channel! We will continue to utilize slack as your main communication hub during your time at TheStackCollective so interacting with this tool early and often will help you become comfortable using it.
 
 ## Gists on GitHub
 
@@ -24,7 +24,7 @@ Gists are an easy way to share code with others and they are often used to docum
 
 ## Markdown
 
-***Markdown*** is a lightweight markup language that converts to HTML and can be displayed on the web. It is used widely in the tech industry for documentation. You'll use it in various ways at Turing. Most frequently, you'll use it to document and showcase your projects!
+***Markdown*** is a lightweight markup language that converts to HTML and can be displayed on the web. It is used widely in the tech industry for documentation. You'll use it in various ways at TheStackCollective. Most frequently, you'll use it to document and showcase your projects!
 
 <br/>
 

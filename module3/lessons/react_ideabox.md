@@ -77,7 +77,7 @@ npm WARN EBADENGINE }
 ✔ Select a framework: › React
 ✔ Select a variant: › JavaScript
 
-Scaffolding project in /Users/heatherf/Turing/se-modules/se3/react-prep/ideabox-vite...
+Scaffolding project in /Users/heatherf/TheStackCollective/se-modules/se3/react-prep/ideabox-vite...
 
 Done. Now run:
 
@@ -1023,7 +1023,7 @@ Voila! You've created a React application!
 ## Want to dig deeper? 
 *Fully Optional Extensions - Not at all Expected*
 
-* Look ahead to the [React: Advanced Data Management lesson](https://curriculum.turing.edu/module3/lessons/react_advanced_data_management)
+* Look ahead to the [React: Advanced Data Management lesson](https://curriculum.thestackcollective.org/module3/lessons/react_advanced_data_management)
 * Open a branch.  
   * Refactor to fetch ideas from this [ideabox server](https://github.com/turingschool-examples/ideabox-api) instead of working with the hard coded ideas. *See server README for instructions on running it locally.*
   * Refactor your addIdea functionality to post the newly created idea to the server, then display it on the DOM (if posted successfully)

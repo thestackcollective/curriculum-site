@@ -1,6 +1,6 @@
-title: "Turing Curriculum - Turing School of Software and Design"
-description: "Open source curriculum for the Turing School of Software and Design's software engineering program."
-url: "https://curriculum.turing.edu/"
+title: "TheStackCollective Curriculum - TheStackCollective"
+description: "Open source curriculum for TheStackCollective's software engineering program."
+url: "https://curriculum.thestackcollective.org/"
 
 baseurl: ''
 permalink: /:title

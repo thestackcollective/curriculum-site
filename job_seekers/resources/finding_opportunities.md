@@ -71,9 +71,9 @@ Below are resources to help you find opportunities from job postings to networki
 * [Software Engineering Newsletter](https://swejobs.substack.com/) lists jobs, events, and more ways to build your professional network.
 
 ### Search by...job listings
-* Turing's Terminal Job Board postings in #job-hunt on Slack
+* TheStackCollective's Terminal Job Board postings in #job-hunt on Slack
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
-* [Juione Engineering Job List](https://junior.engineer/) is built and maintained by a Turing alum to bring a one-stop shop approach to finding junior job listings.
+* [Juione Engineering Job List](https://junior.engineer/) is built and maintained by a TheStackCollective alum to bring a one-stop shop approach to finding junior job listings.
 * [Link Up](https://www.linkup.com/job-seekers/) - an index of employer websites with job listings in order to avoid duplicates.
 * [GitHub’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)

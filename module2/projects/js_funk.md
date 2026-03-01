@@ -113,4 +113,4 @@ Start coding by referencing the pseudocode you’ve written.
 
 <!-- ### Extra Practice -->
 
-<!-- A group of former students created this wild and unruly [bank of practice exercises](https://docs.google.com/spreadsheets/d/1R8imTyYD64FPWJ_mD5QlZI0ybyU1QNkm1ntJqRT7r7k/edit#gid=2076278354) called iron-FE.  Some students find these prompts helpful but they are not managed by Turing instructors in any way.  -->
+<!-- A group of former students created this wild and unruly [bank of practice exercises](https://docs.google.com/spreadsheets/d/1R8imTyYD64FPWJ_mD5QlZI0ybyU1QNkm1ntJqRT7r7k/edit#gid=2076278354) called iron-FE.  Some students find these prompts helpful but they are not managed by TheStackCollective instructors in any way.  -->

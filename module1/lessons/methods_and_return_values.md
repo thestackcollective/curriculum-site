@@ -147,15 +147,15 @@ pry(main)> "Hello World".include? "Hello"
 Some methods take multiple **Arguments**. For example:
 
 ```ruby
-pry(main)> "Hello World".gsub("World", "Turing")
-=> "Hello Turing"
+pry(main)> "Hello World".gsub("World", "TheStackCollective")
+=> "Hello TheStackCollective"
 ```
 
 This is the same as:
 
 ```ruby
-pry(main)> "Hello World".gsub "World", "Turing"
-=> "Hello Turing"
+pry(main)> "Hello World".gsub "World", "TheStackCollective"
+=> "Hello TheStackCollective"
 ```
 
 <section class="dropdown">

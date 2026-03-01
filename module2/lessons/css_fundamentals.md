@@ -245,7 +245,7 @@ Today you will work on `iteration 1` of [this activity](https://github.com/kayla
 
 * [MDN Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 * [Complex CSS Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)
 * [Visual Guide to CSS](http://cssreference.io/)
 * [MDN CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [CSS Border Box](https://dev.to/ameseee/meet-border-box-my-best-friend-a56)

@@ -9,7 +9,7 @@ To practice and become more fluid with your responses to these questions, **writ
 Practice your answers using the correct, precise terminology as if you were talking to an interviewer.
 
 <section class="note">
-  Some of the questions below pertain to technology or processes that you may not have learned at Turing. These questions will be marked with an asterisk (*). These questions are particularly good questions to practice gracefully exiting or could be good starting points for further learning.
+  Some of the questions below pertain to technology or processes that you may not have learned at TheStackCollective. These questions will be marked with an asterisk (*). These questions are particularly good questions to practice gracefully exiting or could be good starting points for further learning.
 </section>
 
 ## Questions

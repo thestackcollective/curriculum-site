@@ -15,7 +15,7 @@ Some things to consider based on your needs:
 - Quality time with family and friends
 - Deep clean of your living space
 - Work from home, desk, etc. setup
-- Reflection and commitment to keeping up with the things you need most during Turing (therapy, journaling, exercise, date night, whatever it is for you)
+- Reflection and commitment to keeping up with the things you need most during TheStackCollective (therapy, journaling, exercise, date night, whatever it is for you)
 - Dentist, dog grooming, other non-urgent appointments (maybe even getting them on the calendar for intermission weeks)
 - Really thinking through your grocery, meal planning, and eating plan
 - Keeping in touch with classmates; maybe setting up some zoom calls to code together or just get to know each other

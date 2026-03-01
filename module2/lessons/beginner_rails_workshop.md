@@ -78,7 +78,7 @@ If you instead get a version of Rails besides `7.1.3`, follow [these instruction
 
 <div class="note">
 #### Pro Tip From Alumni:
-This is all new material that can seem a little overwhelming at first glance, so feel free to go through the tutorial a second or third time to reinforce the content and workflow. These concepts and practices are really important and will be relavant throughout the rest of your time here at Turing!
+This is all new material that can seem a little overwhelming at first glance, so feel free to go through the tutorial a second or third time to reinforce the content and workflow. These concepts and practices are really important and will be relavant throughout the rest of your time here at TheStackCollective!
 </div>
 <br>
 <br>
